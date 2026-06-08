@@ -1,7 +1,7 @@
 ---
 generated: 2026-02-26 16:15 UTC
 pages_crawled: 9
-method: AI analysis (Claude Sonnet 4.6 — full English page content)
+method: AI extraction updated with German review notes
 language: de_DE
 pages:
   - https://doxa.life/
@@ -14,18 +14,19 @@ pages:
   - https://doxa.life/contact-us/
   - https://doxa.life/about/statement-of-faith/
 purpose: >
-  Glossarkandidaten, die durch KI-Analyse aller englischen Seiten von
-  Doxa.Life ermittelt wurden. Enthält die vom Projektteam festgelegten
-  Kernbegriffe sowie alle weiteren Begriffe, deren Fehlübersetzung den
-  Missionsauftrag der Website untergraben könnte.
-  Einträge nach Prüfung in resources/doxa-glossary.md übernehmen.
+  Deutsches Glossar für Doxa.Life, entwickelt aus der ursprünglichen
+  KI-Analyse der englischen Seiten und aktualisiert anhand deutscher
+  Review-Notizen. Enthält die vom Projektteam festgelegten Kernbegriffe
+  sowie weitere Begriffe, deren Fehlübersetzung den Missionsauftrag der
+  Website untergraben könnte.
 note: >
-  Begriffe sind nach Funktion, nicht nach Häufigkeit geordnet. Die Kennzeichnung
-  „★ Kernbegriff" markiert die elf Prioritätsbegriffe, die das Projektteam
-  festgelegt hat.
+  Diese Datei ist als aktualisiertes Arbeitsglossar zu verstehen, nicht als
+  ungeprüfte Kandidatenliste. Begriffe sind nach Funktion, nicht nach
+  Häufigkeit geordnet. Die Kennzeichnung „★ Kernbegriff" markiert die
+  Prioritätsbegriffe, die das Projektteam festgelegt hat.
 ---
 
-# Doxa.Life Glossarkandidaten — KI-Analyse
+# Deutsches Doxa.Life-Glossar — aktualisierte Arbeitsfassung
 
 ---
 
@@ -45,7 +46,7 @@ diese Schwellenwerte unverändert wiedergeben.
   innerhalb derer sich das Evangelium als tragfähige, einheimische
   Gemeindegründungsbewegung ausbreiten kann, ohne auf Verständnis- oder
   Akzeptanzbarrieren zu stoßen." (Seite „Definitionen")
-- **Beispiel**: „2.085 nicht erreichte Volksgruppen" (Titelzeile der Startseite)
+- **Beispiel**: „2.085 völlig unerreichte Volksgruppen" (Titelzeile der Startseite)
 - **Warum dieser Begriff wichtig ist**: Dies ist die grundlegende Maßeinheit
   für die gesamte Website. Das Konzept ist ethnisch-linguistisch, nicht
   politisch — „Volksgruppe" darf nicht als „Nationalstaat", „Stamm" (mit
@@ -54,7 +55,7 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Unerreichte Volksgruppe (UVG) ★ Kernbegriff
+### Unerreichte Volksgruppe ★ Kernbegriff
 
 - **Definition auf der Website**: „Hat annähernd 2 Jünger/innen oder weniger
   pro 100 Personen (≤ 2 %) und besitzt nicht die Kapazität, ohne
@@ -69,30 +70,30 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Nicht erreicht / unengagiert (Volksgruppe) ★ Kernbegriff
+### Völlig unerreichte Volksgruppe ★ Kernbegriff
 
 - **Definition auf der Website**: Eine Volksgruppe, bei der es keine bekannten
   Gläubigen oder nur sehr wenige gibt und der die vier primären Ebenen eines
-  wirksamen Engagements fehlen (apostolischer Pionieraufwand vor Ort; Einsatz
-  für die lokale Kultur und Herzenssprache; langfristige Missionsarbeit;
+  wirksamen Engagements fehlen (apostolischer Einsatz in der Pionierphase vor
+  Ort; Einsatz für die lokale Kultur und Herzenssprache; langfristige Missionsarbeit;
   Evangeliumsaussaat mit dem Ziel einer Gemeindegründungsbewegung).
   (Seite „Definitionen")
-- **Beispiel**: „2.085 nicht erreichte Volksgruppen" / „Nicht erreichte
+- **Beispiel**: „2.085 völlig unerreichte Volksgruppen" / „Völlig unerreichte
   Volksgruppen haben keine Missionare, keine Gemeinden und oft keine bekannten
   Gläubigen." (Seite „Adoptieren")
-- **Warum dieser Begriff wichtig ist**: „Unengagiert" (im missiologischen Sinne:
-  kein aktives Missionswerk vorhanden) ist ein Fachbegriff und bedeutet *kein
-  aktives Gemeindegründungswerk*, nicht „gesellschaftlich desinteressiert" oder
-  „emotional unresponsiv". Eine Fehlübersetzung verschleiert die gesamte
-  Dringlichkeit des Handlungsaufrufs auf der Website.
+- **Warum dieser Begriff wichtig ist**: „Völlig unerreicht" wird hier als
+  Fachbegriff für *kein aktives Gemeindegründungswerk* verwendet, nicht für
+  gesellschaftliche Gleichgültigkeit oder emotionale Unempfänglichkeit. Eine
+  Fehlübersetzung verschleiert die gesamte Dringlichkeit des Handlungsaufrufs
+  auf der Website.
 
 ---
 
-### Unengaged unreached people group (UUPG) — Nicht erreichte, unversorgte Volksgruppe
+### Unberührte Volksgruppe (UUPG)
 
 - **Bedeutung**: Die kombinierte Kategorie — unerreicht UND ohne die vier Ebenen
-  eines wirksamen Engagements. Die Forschungsseite verwendet „Find a UUPG" als
-  UI-Bezeichnung.
+  eines wirksamen Engagements. Die Forschungsseite verwendet „Find a UUPG"
+  („Eine UUPG finden") als UI-Bezeichnung.
 - **Beispiel**: „Tägliches Gebet für jede der 2.085 UUPGs" (Vision-Seite)
 - **Warum dieser Begriff wichtig ist**: UUPG ist eine etablierte Abkürzung in
   der globalen Mission. Eine stabile äquivalente Abkürzung (z. B. „UUPG") oder
@@ -101,27 +102,27 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Unzureichend erreichte Volksgruppe ★ Kernbegriff
+### Unterversorgte Volksgruppe ★ Kernbegriff
 
 - **Definition auf der Website**: „Hat annähernd 1 Jünger/in oder weniger pro
   100 Personen (≤ 1 %). Mehr Gemeindegründungsteams werden benötigt, um
-  fruchtbares Engagement zu steigern." (Seite „Definitionen")
-- **Beispiel**: „Fruchtbares Engagement unter Frontier-Volksgruppen und den
-  unzureichend Erreichten" (Startseite)
+  fruchtbare Arbeit vor Ort zu stärken." (Seite „Definitionen")
+- **Beispiel**: „Fruchtbare Arbeit vor Ort unter Frontier-Volksgruppen und
+  unterversorgten Volksgruppen" (Startseite)
 - **Warum dieser Begriff wichtig ist**: Die Bindestrich-Verbindungsform tritt
   durchgängig auf. Vermitteln, dass die Arbeit begonnen hat, aber *im Umfang
   unzureichend* ist — nicht dass die Menschen selbst gleichgültig sind.
 
 ---
 
-### Frontier-Volksgruppe (Grenzvolksgruppe) ★ Kernbegriff
+### Frontier-Volksgruppe ★ Kernbegriff
 
 - **Definition auf der Website**: „Hat annähernd 1 Jünger/in oder weniger pro
   1.000 Personen (≤ 0,1 %) ohne bestätigte, anhaltende Bewegung hin zu Jesus.
   Oft geografisch isoliert mit wenig bis keinem Zugang zum Evangelium; daher
   muss die Pionierarbeit in der Regel mit Nichtgläubigen beginnen."
   (Seite „Definitionen")
-- **Beispiel**: „Fruchtbares Engagement unter Frontier-Volksgruppen"
+- **Beispiel**: „Fruchtbare Arbeit vor Ort unter Frontier-Volksgruppen"
   (Ziel der Startseite)
 - **Warum dieser Begriff wichtig ist**: „Frontier" signalisiert die
   missiologische Avantgarde — die am wenigsten Erreichten unter den
@@ -146,29 +147,31 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Engagement / engagiert (Volksgruppe)
+### Missionarische Arbeit vor Ort / engagiert (Volksgruppe)
 
 - **Definition auf der Website** (Vision-Seite — „Was ist Engagement?"): „Es
   gibt nachhaltige Aktivität, um Christus zu verkündigen und Jünger/innen zu
   machen; es werden Anstrengungen unternommen, selbsttragende Gemeinden zu
   etablieren; die Arbeit geschieht auf kulturell angemessene und lokal relevante
   Weise." Für WAGF: Kulturübergreifende Mitarbeiter/innen sind vor Ort ansässig.
-- **Beispiel**: „Jede nicht erreichte Volksgruppe bis 2033 zu erreichen"
+- **Beispiel**: „Jede völlig unerreichte Volksgruppe soll bis 2033 eine
+  missionarische Arbeit vor Ort haben"
   (Priorität)
-- **Warum dieser Begriff wichtig ist**: „Engagement" ist ein Präzisionsbegriff —
-  ansässig, nachhaltig, kulturübergreifend, auf Gemeindegründungsbewegungen
-  ausgerichtet. Eine vage Wiedergabe wie „Beteiligung" oder „Kontakt" entzieht
-  dem Kerninhalt seine Bedeutung. Die gesamte Prioritätsaussage hängt davon ab.
+- **Warum dieser Begriff wichtig ist**: „Missionarische Arbeit vor Ort" gibt
+  den Präzisionsbegriff „engagement" konkreter wieder: ansässig, nachhaltig,
+  kulturübergreifend und auf Gemeindegründungsbewegungen ausgerichtet. Eine
+  vage Wiedergabe wie „Beteiligung" oder „Kontakt" entzieht dem Kerninhalt
+  seine Bedeutung. Die gesamte Prioritätsaussage hängt davon ab.
 
 ---
 
-### Fruchtbares Engagement
+### Fruchtbare Arbeit vor Ort
 
-- **Bedeutung**: Engagement, das sichtbar Jünger/innen und Gemeinden hervorbringt,
-  nicht nur Aktivität. Wird in den Zielen der Startseite und in der Erklärung
-  auf der Seite „Über uns" verwendet.
-- **Beispiel**: „Fruchtbares, langfristiges, residentes Engagement unter den
-  nicht erreichten Völkern der Welt" (Sending Summit Declaration)
+- **Bedeutung**: Missionarische Arbeit vor Ort, die sichtbar Jünger/innen und
+  Gemeinden hervorbringt, nicht nur Aktivität. Wird in den Zielen der
+  Startseite und in der Erklärung auf der Seite „Über uns" verwendet.
+- **Beispiel**: „Fruchtbare, langfristige Arbeit vor Ort unter den völlig
+  unerreichten Völkern der Welt" (Sending Summit Declaration)
 - **Warum dieser Begriff wichtig ist**: Das Qualifikationsmerkmal „fruchtbar"
   ist theologisch und strategisch beabsichtigt — es unterscheidet Aktivität
   von Ergebnissen.
@@ -179,7 +182,7 @@ diese Schwellenwerte unverändert wiedergeben.
 
 - **Bedeutung**: Der Zustand einer Volksgruppe, in dem das Evangelium für sie
   verfügbar ist — durch Mitarbeiter/innen, Gemeinden oder Evangeliumsinhalte.
-  Sein *Fehlen* ist die bestimmende Tragödie nicht erreichter Volksgruppen.
+  Sein *Fehlen* ist die bestimmende Tragödie völlig unerreichter Volksgruppen.
 - **Beispiel**: „Sie haben keinen Zugang zum Evangelium" (Überschrift der Seite
   „Adoptieren"); „Ein kirchengeleitetes Engagement zum Beten, Geben und Senden,
   damit der Zugang zum Evangelium beginnt" (Seite „Adoptieren")
@@ -190,21 +193,20 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Missionarisches Evangeliumsengagement ★ Kernbegriff
+### Evangelisationsarbeit ★ Kernbegriff
 
 - **Bedeutung**: Aktive, fortlaufende Verkündigung und Einübung des Evangeliums
   unter einer Volksgruppe; wird im Gebetskontext verwendet („den Weg bereiten
-  für missionarisches Evangeliumsengagement durch Gebet").
-- **Beispiel**: „Hilf, den Weg für missionarisches Evangeliumsengagement durch
-  Gebet zu bereiten" (Seite „Beten")
+  für Evangelisationsarbeit durch Gebet").
+- **Beispiel**: „Hilf, den Weg für Evangelisationsarbeit durch Gebet zu
+  bereiten" (Seite „Beten")
 - **Warum dieser Begriff wichtig ist**: Unterscheidet sich vom „Zugang zum
-  Evangelium" (Verfügbarkeit) — „missionarisches Evangeliumsengagement" ist die
-  aktive Missionsarbeit selbst. Nicht als Marketing- oder Medienkampagne
-  wiedergeben.
+  Evangelium" (Verfügbarkeit) — „Evangelisationsarbeit" ist die aktive
+  Missionsarbeit selbst. Nicht als Marketing- oder Medienkampagne wiedergeben.
 
 ---
 
-### Gemeindegründungsbewegung (GGB) ★ Kernbegriff
+### Gemeindegründungsbewegung ★ Kernbegriff
 
 - **Definition auf der Website**: „Eine Multiplikation einheimischer Gemeinden,
   die Gemeinden gründen, mit mindestens vier Strängen von vier geistlichen
@@ -246,13 +248,13 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Residentes Engagement / vor Ort ansässige Mitarbeiter/innen
+### Engagement vor Ort / vor Ort ansässige Mitarbeiter/innen
 
 - **Bedeutung**: Kulturübergreifende Mitarbeiter/innen, die *unter* der
   Volksgruppe *leben* (nicht aus der Ferne oder als Besuchende). Eine
   Voraussetzung für WAGFs Definition von Engagement.
 - **Beispiel**: „Kulturübergreifende Mitarbeiter/innen sind vor Ort ansässig"
-  (Vision-Seite); „Apostolischer (pionierender) Einsatz vor Ort"
+  (Vision-Seite); „Apostolischer Einsatz in der Pionierphase vor Ort"
   (Seite „Definitionen")
 - **Warum dieser Begriff wichtig ist**: „Ansässig" versus „nicht ansässig" ist
   eine zentrale Unterscheidung auf der Website. Übersetzungen dürfen dies nicht
@@ -274,16 +276,16 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Apostolischer (pionierender) Einsatz
+### Apostolischer Einsatz (in der Pionierphase)
 
 - **Bedeutung**: Frontlinien-Missionsarbeit, die dort beginnt, wo es keine
   Gemeinden oder Gläubigen gibt. Eines der vier Kriterien dafür, dass eine
-  Volksgruppe als „erreicht" gilt.
-- **Beispiel**: „Apostolischer (pionierender) Einsatz vor Ort"
+  Volksgruppe als „engagiert" gilt.
+- **Beispiel**: „Apostolischer Einsatz in der Pionierphase vor Ort"
   (Seite „Definitionen")
 - **Warum dieser Begriff wichtig ist**: „Apostolisch" bedeutet hier gesandt/
-  pionierend, nicht eine Denominationsbezeichnung. Der Klammerausdruck
-  „(pionierend)" signalisiert dies; diese Klarheit in der Übersetzung
+  pionierend, nicht eine Denominationsbezeichnung. Die Ergänzung „in der
+  Pionierphase" signalisiert dies; diese Klarheit in der Übersetzung
   beibehalten.
 
 ---
@@ -312,7 +314,7 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Bewegung hin zu Jesus
+### Bewegung zu Jesus hin
 
 - **Bedeutung**: Eine kollektive, sich multiplizierende Bewegung von Menschen
   aus einer Gruppe, die sich Jesus zuwenden und ihm nachfolgen — im Gegensatz
@@ -325,27 +327,27 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Nicht-residente Partner/innen
+### Projektpartner
 
 - **Bedeutung**: Gemeinden, Werke oder Einzelpersonen, die das Engagement von
   außerhalb des Missionsfeldes unterstützen — durch Gebet, Gaben,
   Bibelübersetzung, Medien usw.
-- **Beispiel**: „Breiteres Engagement umfasst wichtige beitragende Komponenten,
-  die von nicht-residenten Partnern geleistet werden können, darunter
-  Fürbittgebet, Bibelübersetzung, Barmherzigkeits-/Katastrophenhilfseinsätze …"
+- **Beispiel**: „Weiteres Engagement umfasst wichtige beitragende Komponenten,
+  die von Projektpartnern geleistet werden können, darunter Fürbittegebet,
+  Bibelübersetzung, Barmherzigkeits-/Katastrophenhilfseinsätze …"
   (Seite „Definitionen")
 - **Warum dieser Begriff wichtig ist**: Hilft Menschen zu verstehen, dass sie
   an der Mission teilhaben können, auch ohne ins Feld zu gehen.
 
 ---
 
-### Breiteres Engagement (Komponenten)
+### Weiteres Engagement
 
 - **Bedeutung**: Die beitragenden (aber allein nicht ausreichenden) Elemente der
-  Mission, die nicht-residente Partner/innen leisten können: Fürbittgebet,
+  Mission, die Projektpartner leisten können: Fürbittegebet,
   Bibelübersetzung, Barmherzigkeits-/Katastrophenhilfseinsätze, Medienpräsenz,
   Mobilisierungsbemühungen, Führungstraining, Arbeit unter der Diaspora.
-- **Beispiel**: „Breiteres Engagement umfasst wichtige beitragende Komponenten"
+- **Beispiel**: „Weiteres Engagement umfasst wichtige beitragende Komponenten"
   (Seite „Definitionen")
 - **Warum dieser Begriff wichtig ist**: Diese Liste verdeutlicht, dass Adoptieren
   und Beten echte Teilhabe an der Mission sind, auch ohne hinzugehen.
@@ -369,10 +371,10 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ### Tägliches Gebet (für eine Volksgruppe) ★ Kernbegriff
 
-- **Bedeutung**: Die Verpflichtung, täglich für eine bestimmte nicht erreichte
+- **Bedeutung**: Die Verpflichtung, täglich für eine bestimmte völlig unerreichte
   Volksgruppe zu beten, typischerweise unter Verwendung des täglichen
   Gebetsleitfadens von Doxa.Life.
-- **Beispiel**: „Wähle eine nicht erreichte Volksgruppe, für die du dich
+- **Beispiel**: „Wähle eine völlig unerreichte Volksgruppe, für die du dich
   verpflichtest, täglich zu beten." (Seite „Beten")
 - **Warum dieser Begriff wichtig ist**: „Täglich" ist beabsichtigt und Teil der
   24-Stunden-Abdeckungsrechnung. Nicht als „regelmäßiges Gebet" oder
@@ -380,13 +382,13 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### 24-Stunden-Gebetsabdeckung
+### 24-Stunden-Abdeckung
 
 - **Bedeutung**: Das Ziel, mindestens 144 Fürbitter/innen zu haben, die jeweils
   10 Minuten täglich für eine bestimmte UUPG beten, was zusammen 24 Stunden
   Gebet täglich ergibt.
 - **Beispiel**: „Mindestens 144 Fürbitter/innen, die für jede UUPG täglich
-  10 Minuten beten (was einer 24-Stunden-Gebetsabdeckung entspricht)"
+  10 Minuten beten (was einer 24-Stunden-Abdeckung entspricht)"
   (Vision-Seite)
 - **Warum dieser Begriff wichtig ist**: Die mathematische Logik muss übersetzbar
   sein. Vermeiden, dass „Abdeckung" als Versicherungs- oder rechtliche Deckung
@@ -406,33 +408,33 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Fürbittgebet
+### Fürbittegebet
 
 - **Bedeutung**: Gebet, das stellvertretend für andere dargebracht wird —
   speziell für Volksgruppen, für die niemand betet.
-- **Beispiel**: „Breiteres Engagement umfasst… Fürbittgebet" (Definitionen)
+- **Beispiel**: „Weiteres Engagement umfasst… Fürbittegebet" (Definitionen)
 - **Warum dieser Begriff wichtig ist**: Vom persönlichen Andachtsgebet
   unterscheiden; die Dimension *stellvertretend für andere* betonen.
 
 ---
 
-### Täglicher Gebetsleitfaden / tägliche Gebetspunkte
+### Täglicher Gebetsleitfaden / tägliche Gebetsanliegen
 
 - **Bedeutung**: Die tägliche E-Mail oder der Inhaltsservice, den Doxa.Life an
   registrierte Fürbitter/innen sendet — mit Schriftthemen, Gebetsanliegen vom
   Feld, Fotos, Geschichten und wichtigen Einblicken zur Volksgruppe.
-- **Beispiel**: „Erhalte tägliche Gebetspunkte und schließe dich Gläubigen
+- **Beispiel**: „Erhalte tägliche Gebetsanliegen und schließe dich Gläubigen
   weltweit im Gebet an" (Startseite); „Dein täglicher Gebetsleitfaden:
   Schriftzentrierte Gebetsthemen, vom Geist geleitete Besinnung und Führung,
   echte Gebetsanliegen vom Feld, Fotos, Geschichten und Zeugnisse, wichtige
   Einblicke zur Volksgruppe" (Beten)
-- **Warum dieser Begriff wichtig ist**: „Leitfaden" und „Punkte" unterscheiden
+- **Warum dieser Begriff wichtig ist**: „Leitfaden" und „Gebetsanliegen" unterscheiden
   sich von allgemeinen Andachten — sie sind spezifisch, volksgruppenorientiert
   und mit dem Feld verbunden.
 
 ---
 
-### Gebet bereitet den Weg
+### Gebet bahnt den Weg
 
 - **Bedeutung**: Eine theologische Überzeugung, dass Fürbitte geistliche
   Bedingungen für Evangeliumsdurchbrüche schafft, bevor Mitarbeiter/innen
@@ -441,18 +443,18 @@ diese Schwellenwerte unverändert wiedergeben.
   Heiligen Geistes ein, lange bevor Mitarbeiter/innen ankommen oder das
   Evangelium verkündigt wird." (Seite „Beten")
 - **Warum dieser Begriff wichtig ist**: Ein zentraler Motivationssatz, der
-  erklärt, warum Gebet der erste Schritt des Engagements ist, nicht nur eine
-  Ergänzung dazu.
+  erklärt, warum Gebet der erste Schritt missionarischer Arbeit vor Ort ist,
+  nicht nur eine Ergänzung dazu.
 
 ---
 
 ### Herr der Ernte
 
 - **Bedeutung**: Ein biblischer Titel für Jesus (Matthäus 9,38), der im Aufruf
-  zum Gebet verwendet wird, damit Er Arbeiter/innen zu den nicht Erreichten
+  zum Gebet verwendet wird, damit Er Arbeiter/innen zu den völlig Unerreichten
   sende.
 - **Beispiel**: „Betet ernsthaft zum Herrn der Ernte … dass Er Arbeiter/innen
-  zu den [Nicht Erreichten] sende." (Seite „Beten")
+  zu den [völlig Unerreichten] sende." (Seite „Beten")
 - **Warum dieser Begriff wichtig ist**: An der etablierten Bibelübersetzungsphrase
   in der Zielsprache ausrichten. Die landwirtschaftliche Metapher (Ernte =
   Menschen, die bereit sind zu antworten) sollte erhalten bleiben.
@@ -463,23 +465,23 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Eine nicht erreichte Volksgruppe adoptieren ★ Kernbegriff
+### Eine völlig unerreichte Volksgruppe adoptieren ★ Kernbegriff
 
 - **Bedeutung**: Eine formale, langfristige kirchengeleitete Verpflichtung zum
   Beten, Geben und Senden, damit der Zugang zum Evangelium für eine bestimmte
-  nicht erreichte Volksgruppe beginnt.
+  völlig unerreichte Volksgruppe beginnt.
 - **Beispiel**: „Ein kirchengeleitetes Engagement zum Beten, Geben und Senden,
   damit der Zugang zum Evangelium beginnt" (Seite „Adoptieren")
 - **Warum dieser Begriff wichtig ist**: Familienrechtliche Adoptionssprache
   (Kinder, Sorgerecht) vermeiden. Das Konzept ist *missionarische Patenschaft/
   Verantwortungsübernahme* — eine Gemeinde übernimmt strategische Verantwortung
-  für das Engagement einer Volksgruppe.
+  für die missionarische Arbeit vor Ort unter einer Volksgruppe.
 
 ---
 
 ### Beten, Geben und Senden
 
-- **Bedeutung**: Die drei Säulen der Adoption — Fürbittgebet, finanzielle
+- **Bedeutung**: Die drei Säulen der Adoption — Fürbittegebet, finanzielle
   Unterstützung und das Aussenden von Mitarbeiter/innen.
 - **Beispiel**: „Gemeinden und Netzwerke übernehmen Verantwortung — durch
   Beten, Geben und die Vorbereitung des Weges für Evangeliumsarbeiter/innen."
@@ -503,14 +505,14 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Missionswerk / Entsendewerk
+### Sendeorganisation / Sendeorganisationen
 
 - **Bedeutung**: Organisationen, die autorisiert sind, Missionare zu
-  rekrutieren, auszubilden, zu unterstützen und auszusenden. DOXA arbeitet mit,
-  ersetzt aber keine Entsendewerke.
+  rekrutieren, auszubilden, zu unterstützen und zu senden. DOXA arbeitet mit,
+  ersetzt aber keine Sendeorganisationen.
 - **Beispiel**: „Jede mit dem World Assemblies of God Fellowship verbundene
-  Missionsabteilung (129 verschiedene Entsendewerke, Stand 2026) ist automatisch
-  ein DOXA-Partner." (Seite „Über uns")
+  Missionsabteilung (129 verschiedene Sendeorganisationen, Stand 2026) ist
+  automatisch ein DOXA-Partner." (Seite „Über uns")
 - **Warum dieser Begriff wichtig ist**: Ein Fachbegriff in Missionsstrukturen.
   Übersetzer/innen sollten die etablierte lokale Entsprechung verwenden, wenn
   eine vorhanden ist.
@@ -520,8 +522,8 @@ diese Schwellenwerte unverändert wiedergeben.
 ### Unser Geschenk an Jesus
 
 - **Bedeutung**: Die rahmende Metapher für die Mission — jede Volksgruppe zu
-  erreichen ist das kollektive Geschenk der Anbetung der Gemeinde an Jesus.
-- **Beispiel**: „Unser Geschenk an Jesus: Jedes Volk bis 2033 erreichen"
+  engagieren ist das kollektive Geschenk der Anbetung der Gemeinde an Jesus.
+- **Beispiel**: „Unser Geschenk an Jesus: Jedes Volk bis 2033 engagieren"
   (Startseite)
 - **Warum dieser Begriff wichtig ist**: Ein motivierender/anbetender Rahmen.
   Sollte opfernd und wie eine Gabe wirken, nicht transaktional.
@@ -532,11 +534,12 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Priorität — „Jede nicht erreichte Volksgruppe bis 2033 erreichen"
+### Priorität — „Jede völlig unerreichte Volksgruppe soll bis 2033 eine missionarische Arbeit vor Ort haben"
 
 - **Bedeutung**: Der zeitgebundene, messbare strategische Schwerpunkt von
   Doxa.Life.
-- **Beispiel**: „Jede nicht erreichte Volksgruppe bis 2033 zu erreichen"
+- **Beispiel**: „Jede völlig unerreichte Volksgruppe soll bis 2033 eine
+  missionarische Arbeit vor Ort haben"
   (Vision-Seite)
 - **Warum dieser Begriff wichtig ist**: „Priorität" signalisiert, dass dies das
   *einzig wichtigste* strategische Ziel ist, nicht eines unter vielen. Die
@@ -569,23 +572,23 @@ diese Schwellenwerte unverändert wiedergeben.
 
 ---
 
-### Eine Menge aus jedem Volk vor dem Thron
+### Eine riesige Menschenmenge aus jedem Volk um den Thron versammelt
 
 - **Bedeutung**: Die eschatologische Anbetungsszene aus Offenbarung 7,9; das
   ultimative Ziel, das alles Engagement motiviert.
-- **Beispiel**: „Eines Tages wird eine Menge aus jedem Volk vor dem Thron stehen
-  und Gott anbeten." (Seite „Über uns")
+- **Beispiel**: „Eines Tages wird eine riesige Menschenmenge aus jedem Volk um
+  den Thron versammelt sein und Gott anbeten." (Seite „Über uns")
 - **Warum dieser Begriff wichtig ist**: An der Formulierung der lokalen
   Bibelübersetzung ausrichten. Sollte anbetend und endgültig wirken, nicht
   nur organisatorisch.
 
 ---
 
-### DOXA-Partnerschaftsmissionare
+### DOXA-Partnermissionare
 
 - **Bedeutung**: Missionare, die innerhalb des Doxa.Life-Partnerschaftsnetzwerks
-  dienen, koordiniert durch Entsendewerke.
-- **Beispiel**: „Mobilisierung von 20.000+ DOXA-Partnerschaftsmissionaren"
+  dienen, koordiniert durch Sendeorganisationen.
+- **Beispiel**: „Mobilisierung von 20.000+ DOXA-Partnermissionaren"
   (Ziel der Startseite)
 - **Warum dieser Begriff wichtig ist**: „Partnerschaft" signalisiert, dass es
   sich nicht um DOXA-Angestellte handelt, sondern um Mitarbeiter/innen von
@@ -604,7 +607,7 @@ diese Schwellenwerte unverändert wiedergeben.
   verwendet (z. B. „2 Jünger/innen oder weniger pro 100").
 - **Beispiel**: „Eine Gemeinde besteht aus getauften Jüngern/innen, die durch
   den Heiligen Geist zusammengeführt werden" (Definitionen); „2 Jünger/innen
-  oder weniger pro 100" (UVG-Definition)
+  oder weniger pro 100" (Definition einer unerreichten Volksgruppe)
 - **Warum dieser Begriff wichtig ist**: Das etablierte christliche Wort für
   Jünger/in verwenden, nicht „Student/in", „Nachfolger/in" (allgemein) oder
   „Bekehrte/r". Die numerische Kennzahlverwendung muss mit dieser theologischen
@@ -639,7 +642,7 @@ diese Schwellenwerte unverändert wiedergeben.
 ### Kulturell angemessen und lokal relevant
 
 - **Bedeutung**: Eines der drei Kriterien dafür, dass eine Volksgruppe als
-  „erreicht" gilt — dass die Evangeliumsarbeit zur Kultur und Sprache der
+  „engagiert" gilt — dass die Evangeliumsarbeit zur Kultur und Sprache der
   Menschen passt.
 - **Beispiel**: „Die Arbeit geschieht auf kulturell angemessene und lokal
   relevante Weise." (Vision-Seite)
@@ -667,7 +670,8 @@ diese Schwellenwerte unverändert wiedergeben.
   C gründet D = 4 Generationen).
 - **Beispiel**: „vier Stränge von vier geistlichen Generationen"
   (Seite „Definitionen")
-- **Warum dieser Begriff wichtig ist**: Eine technische GGB-Kennzahl.
+- **Warum dieser Begriff wichtig ist**: Eine technische Kennzahl einer
+  Gemeindegründungsbewegung.
   Übersetzer/innen sollten multiplikative Abstammung vermitteln, nicht das
   Alter der Gläubigen.
 
@@ -736,7 +740,7 @@ diese Schwellenwerte unverändert wiedergeben.
 ### World Assemblies of God Fellowship (WAGF)
 
 - **Bedeutung**: Die globale Gemeinschaft, die Doxa.Life gegründet hat und
-  betreut. Umfasst 129 angeschlossene Entsendewerke (Stand 2026).
+  betreut. Umfasst 129 angeschlossene Sendeorganisationen (Stand 2026).
 - **Beispiel**: „DOXA wurde vom World Assemblies of God Fellowship (WAGF)
   gestartet und wird von ihm betreut" (Seite „Über uns")
 - **Warum dieser Begriff wichtig ist**: Ein Eigenname — nicht übersetzen. Bei
@@ -778,7 +782,7 @@ diese Schwellenwerte unverändert wiedergeben.
 - **Warum dieser Begriff wichtig ist**: Jedes Qualifikationsmerkmal
   („freiwillig", „global", „empfangend") ist theologisch und strukturell
   beabsichtigt. „Empfangend" unterscheidet die Partnerschaft speziell von einem
-  Entsendewerk.
+  Sendeorganisation.
 
 ---
 
@@ -839,7 +843,7 @@ entscheidend.
 |-------------|---------|---------------------|
 | **Beten** | Hauptnavigation + Seitentitel + Handlungsschritt | Kurz halten; Befehlsform |
 | **Adoptieren** | Hauptnavigation + Seitentitel | Siehe Eintrag „Adoptieren" — Kindesadoptionssprache vermeiden |
-| **Erreichen / Engagieren** | Handlungsaufruf der Startseite | Aktiver/missionarischer Sinn; nicht „interagieren" |
+| **Engagieren** | Handlungsaufruf der Startseite | Aktiver/missionarischer Sinn; nicht „interagieren" |
 | **Recherche / Suche** | Hauptnavigation | „Eine UUPG finden" — Wort für „suchen/erkunden" verwenden |
 | **Über uns** | Hauptnavigation | Standard-„Über uns" — natürliche lokale Entsprechung verwenden |
 | **Ressourcen** | Untermenü „Über uns" | Missionsmaterialien/Werkzeuge — nicht „Finanzmittel" |
@@ -848,9 +852,9 @@ entscheidend.
 | **Glaubensbekenntnis** | Untermenü „Über uns" | Lehraussage |
 | **Kontakt** | Navigation/Fußzeile | Standard-Kontaktbezeichnung |
 | **Eine Volksgruppe wählen** | Handlungsaufrufe „Beten" + „Adoptieren" | Bewusste Auswahl, nicht zufällig; fortlaufende Verpflichtung betonen |
-| **Anmelden** | Beten Schritt 2 | Abonnieren/registrieren für tägliche Gebetspunkte |
+| **Anmelden** | Beten Schritt 2 | Abonnieren/registrieren für tägliche Gebetsanliegen |
 | **Täglicher Gebetsleitfaden** | Seite „Beten" | Die tägliche Andachtsressource per E-Mail |
-| **24-Stunden-Gebetsabdeckung** | Beten + Adoptieren | Siehe vollständigen Eintrag oben |
+| **24-Stunden-Abdeckung** | Beten + Adoptieren | Siehe vollständigen Eintrag oben |
 | **Adoptionsziel / Aktueller Stand** | Statistiken der Seite „Adoptieren" | Fortschritt bei der Adoption aller 2.085 UUPGs |
 | **Wie die Adoption funktioniert** | Seite „Adoptieren" | Schritt-für-Schritt-Abschnittsüberschrift |
 | **Warum Adoption wichtig ist** | Seite „Adoptieren" | Motivations-Abschnittsüberschrift |
@@ -867,13 +871,13 @@ aufgeführt:
 | Kernbegriff | Abschnitt oben |
 |-------------|---------------|
 | Volksgruppe | §1 Volksgruppen-Terminologie |
-| Nicht erreicht / unengagiert (Volksgruppe) | §1 Volksgruppen-Terminologie |
+| Völlig unerreichte Volksgruppe | §1 Volksgruppen-Terminologie |
 | Unerreichte Volksgruppe | §1 Volksgruppen-Terminologie |
-| Unzureichend erreicht | §1 Volksgruppen-Terminologie |
+| Unterversorgte Volksgruppe | §1 Volksgruppen-Terminologie |
 | Frontier-Volksgruppe | §1 Volksgruppen-Terminologie |
-| Eine Volksgruppe adoptieren | §4 Adoptieren und Mobilisieren |
+| Eine völlig unerreichte Volksgruppe adoptieren | §4 Adoptieren und Mobilisieren |
 | Beten (für eine Volksgruppe) | §3 Gebet und Fürbitte + §4 |
-| Gemeindegründungsbewegungen | §2 Engagement- und Missionssprache |
+| Gemeindegründungsbewegung | §2 Engagement- und Missionssprache |
 | Tägliches Gebet | §3 Gebet und Fürbitte |
-| Missionarisches Evangeliumsengagement | §2 Engagement- und Missionssprache |
+| Evangelisationsarbeit | §2 Engagement- und Missionssprache |
 | Zugang zum Evangelium | §2 Engagement- und Missionssprache |

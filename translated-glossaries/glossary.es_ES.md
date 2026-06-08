@@ -1,8 +1,8 @@
 ---
 generated: 2026-02-26 16:15 UTC
 pages_crawled: 9
-method: AI analysis (Claude Sonnet 4.6 — full English page content)
-language: es_ES
+method: AI extraction reviewed with live Spanish translator decisions
+language: Spanish
 pages:
   - https://doxa.life/
   - https://doxa.life/adopt/
@@ -14,22 +14,23 @@ pages:
   - https://doxa.life/contact-us/
   - https://doxa.life/about/statement-of-faith/
 purpose: >
-  Candidatos del glosario identificados mediante análisis de IA de todas las
-  páginas en inglés de Doxa.Life. Incluye los términos clave especificados por
-  el usuario, más todos los términos adicionales cuya traducción incorrecta
-  podría desvirtuar el significado ministerial del sitio.
-  Revisar y promover las entradas a resources/doxa-glossary.md.
+  Glosario español de Doxa.Life, desarrollado a partir de una extracción
+  inicial por IA del contenido en inglés y actualizado con decisiones de
+  traductores españoles en directo. Incluye los términos clave especificados
+  por el equipo del proyecto, más todos los términos adicionales cuya traducción
+  incorrecta podría desvirtuar el significado ministerial del sitio.
 note: >
-  Los términos están agrupados por función, no por frecuencia. La etiqueta
-  "★ Término clave" señala los once términos prioritarios especificados por el
-  equipo del proyecto.
+  Este archivo debe tratarse como un glosario revisado, no como una lista bruta
+  de candidatos. Los términos están agrupados por función, no por frecuencia.
+  La etiqueta "★ Término clave" señala los once términos prioritarios
+  especificados por el equipo del proyecto.
 ---
 
-# Candidatos del Glosario de Doxa.Life — Análisis de IA
+# Glosario español de Doxa.Life — Revisado por traductores
 
 ---
 
-## 1. Terminología de grupos de pueblos
+## 1. Terminología de grupos de personas
 
 Estos son los términos con mayor precisión definitoria del sitio. La página de
 **Definiciones** establece umbrales numéricos exactos; las traducciones deben
@@ -37,29 +38,29 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Grupo de pueblos ★ Término clave
+### Grupo de personas ★ Término clave
 
 - **Definición del sitio**: "Un grupo etnolingüístico cuyos miembros perciben
   entre sí una afinidad común basada en el idioma, la cultura, la religión y
   la cosmovisión … el grupo más amplio posible dentro del cual el evangelio
-  puede extenderse como un movimiento de plantación de iglesias viable e
-  indígena sin encontrar barreras de comprensión o aceptación." (página de
+  puede extenderse como un movimiento de plantación de iglesias viable y
+  autóctono sin encontrar barreras de comprensión o aceptación." (página de
   Definiciones)
-- **Ejemplo**: "2.085 grupos de pueblos sin alcance misionero" (titular de la
+- **Ejemplo**: "2.085 grupos de personas no comprometidos" (titular de la
   página de inicio)
 - **Por qué importa**: Esta es la unidad fundamental de medición de todo el
-  sitio. El concepto es étnico-lingüístico, no político — "grupo de pueblos"
+  sitio. El concepto es étnico-lingüístico, no político — "grupo de personas"
   no debe traducirse como "estado-nación", "tribu" (con connotaciones
   primitivas) ni "grupo social". Una traducción imprecisa invalida todas las
   estadísticas.
 
 ---
 
-### Pueblo no alcanzado (UPG) ★ Término clave
+### Grupo de personas no alcanzado ★ Término clave
 
 - **Definición del sitio**: "Tiene aproximadamente 2 discípulos o menos de
-  cada 100 (≤ 2%) y carece de la capacidad para establecer iglesias indígenas
-  sin asistencia intercultural." (página de Definiciones)
+  cada 100 (≤ 2%) y carece de obreros transculturales que puedan alcanzarlo
+  con el evangelio de Jesús." (página de Definiciones)
 - **Ejemplo**: "Asociación Global para los No Alcanzados" (eslogan del sitio)
 - **Por qué importa**: El umbral (≤ 2%) debe reproducirse en la traducción.
   El concepto de *falta de capacidad* para la auto-propagación es tan
@@ -68,57 +69,57 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Sin alcance misionero (grupo de pueblos) ★ Término clave
+### Grupo de personas no comprometido ★ Término clave
 
-- **Definición del sitio**: Un grupo de pueblos sin creyentes conocidos o con
-  muy pocos, y que carece de los cuatro niveles primarios de involucramiento
+- **Definición del sitio**: Un grupo de personas sin creyentes conocidos o con
+  muy pocos, y que carece de los cuatro niveles primarios de compromiso
   efectivo (esfuerzo apostólico residente; compromiso con la cultura local y el
   idioma del corazón; compromiso ministerial a largo plazo; siembra del
   evangelio orientada a un MPI). (página de Definiciones)
-- **Ejemplo**: "2.085 grupos de pueblos sin alcance misionero" / "Los grupos
-  de pueblos sin alcance misionero no tienen misioneros, ni iglesias, y a
+- **Ejemplo**: "2.085 grupos de personas no comprometidos" / "Los grupos
+  de personas no comprometidos no tienen misioneros, ni iglesias, y a
   menudo no tienen creyentes conocidos." (página de Adoptar)
-- **Por qué importa**: "Sin alcance misionero" es un término técnico que
+- **Por qué importa**: "Grupo de personas no comprometido" es un término técnico que
   significa *sin trabajo activo de plantación de iglesias*, no "socialmente
   desconectado" ni "emocionalmente indiferente". Una traducción incorrecta
   oscurece la urgencia de todo el llamado a la acción del sitio.
 
 ---
 
-### pueblo no alcanzado no comprometido (PNANC)
+### Grupo de personas no alcanzado ni comprometido (PNANC)
 
 - **Significado**: La categoría combinada — no alcanzado Y que carece de los
-  cuatro niveles de involucramiento efectivo. La página de investigación
-  utiliza "Busca un PNANC" como etiqueta de interfaz.
-- **Ejemplo**: "Oración diaria por cada uno de los 2.085 PNANCs" (página de
-  Visión)
-- **Por qué importa**: PNANC (pueblo no alcanzado no comprometido) es la sigla
-  equivalente en español de UUPG. Mantener esta sigla de forma consistente
-  en todo el sitio para alinearse con las herramientas internacionales de oración.
+  cuatro niveles de compromiso efectivo. La página de investigación
+  utiliza "Busca un PNANC" como
+  etiqueta de interfaz.
+- **Ejemplo**: "Oración diaria por cada uno de los 2.085 PNANCs" (página de Visión)
+- **Por qué importa**: UUPG es una sigla establecida en misiones globales.
+  Mantener PNANC (grupo de personas no alcanzado ni comprometido) como sigla
+  estable en español para alinearse con las herramientas internacionales de oración.
 
 ---
 
-### Insuficientemente alcanzado (grupo de pueblos) ★ Término clave
+### Grupo de personas poco comprometido ★ Término clave
 
 - **Definición del sitio**: "Tiene aproximadamente 1 discípulo o menos de cada
   100 (≤ 1%). Se necesitan más equipos de plantación de iglesias para aumentar
-  el involucramiento fructífero." (página de Definiciones)
-- **Ejemplo**: "Involucramiento fructífero entre los pueblos fronterizos y los
-  insuficientemente alcanzados" (página de inicio)
+  el compromiso fructífero." (página de Definiciones)
+- **Ejemplo**: "Compromiso fructífero entre los grupos fronterizos y los
+  grupos de personas poco comprometidos" (página de inicio)
 - **Por qué importa**: La forma compuesta aparece de manera consistente.
   Transmitir que el trabajo ha comenzado pero es *insuficiente en escala* —
   no que el pueblo mismo sea indiferente.
 
 ---
 
-### Pueblo fronterizo ★ Término clave
+### Grupo fronterizo ★ Término clave
 
 - **Definición del sitio**: "Tiene aproximadamente 1 discípulo o menos de cada
   1.000 (≤ 0,1%) sin ningún movimiento confirmado y sostenido hacia Jesús. A
   menudo se encuentra geográficamente aislado con poco o ningún acceso al
   evangelio; por lo tanto, el trabajo pionero generalmente debe comenzar con
   no creyentes." (página de Definiciones)
-- **Ejemplo**: "Involucramiento fructífero entre los pueblos fronterizos"
+- **Ejemplo**: "Compromiso fructífero entre los grupos fronterizos"
   (meta de la página de inicio)
 - **Por qué importa**: "Fronterizo" indica el extremo missiológico — los más
   no alcanzados entre los no alcanzados. Evitar connotaciones militares donde
@@ -130,7 +131,7 @@ preservar esos umbrales íntegros.
 ### Grupo etnolingüístico
 
 - **Significado**: El descriptor técnico de lo que constituye un grupo de
-  pueblos (idioma, cultura, religión y cosmovisión compartidos). No se usa
+  personas (idioma, cultura, religión y cosmovisión compartidos). No se usa
   como etiqueta independiente en la interfaz, pero aparece incorporado en la
   definición de la página de Definiciones.
 - **Por qué importa**: Los traductores deben entender que este es el concepto
@@ -139,33 +140,33 @@ preservar esos umbrales íntegros.
 
 ---
 
-## 2. Lenguaje de involucramiento y misión
+## 2. Lenguaje de compromiso y misión
 
 ---
 
-### Involucramiento / grupo de pueblos involucrado
+### Compromiso / comprometido (grupo de personas)
 
-- **Definición del sitio** (página de Visión — "¿Qué es el Involucramiento?"):
+- **Definición del sitio** (página de Visión — "¿Qué es el Compromiso?"):
   "Existe actividad sostenida para compartir a Cristo y hacer discípulos; hay
   esfuerzos para establecer iglesias autosustentables; el trabajo ocurre de
   maneras culturalmente apropiadas y localmente relevantes." Para WAGF: los
-  obreros interculturales son residentes.
-- **Ejemplo**: "Involucrar a cada Grupo de Pueblos Sin Alcance Misionero para
+  obreros transculturales son residentes.
+- **Ejemplo**: "Involucrar a todos los grupos de personas no comprometidas para
   2033" (Prioridad)
-- **Por qué importa**: "Involucramiento" es un término de precisión —
-  residente, sostenido, intercultural, orientado al MPI. Una traducción vaga
+- **Por qué importa**: "Compromiso" es un término de precisión —
+  residente, sostenido, transcultural, orientado al MPI. Una traducción vaga
   como "participación" o "contacto" despoja el significado central. Toda la
   declaración de prioridad depende de ello.
 
 ---
 
-### Involucramiento fructífero
+### Compromiso fructífero
 
-- **Significado**: Involucramiento que está produciendo visiblemente discípulos
+- **Significado**: Compromiso que está produciendo visiblemente discípulos
   e iglesias, no solo actividad. Se utiliza en las metas de la página de inicio
   y en la declaración de la página Acerca de.
-- **Ejemplo**: "Involucramiento fructífero, a largo plazo y residencial de los
-  pueblos sin alcance misionero del mundo" (Sending Summit Declaration)
+- **Ejemplo**: "Compromiso fructífero, a largo plazo y residencial de los
+  grupos de personas no comprometidos del mundo" (Sending Summit Declaration)
 - **Por qué importa**: El calificativo "fructífero" es intencional desde el
   punto de vista teológico y estratégico — distingue la actividad de los
   resultados.
@@ -174,10 +175,10 @@ preservar esos umbrales íntegros.
 
 ### Acceso al evangelio ★ Término clave
 
-- **Significado**: La condición de un grupo de pueblos que tiene el evangelio
+- **Significado**: La condición de un grupo de personas que tiene el evangelio
   disponible para él — a través de obreros, iglesias o contenido del evangelio.
-  Su *ausencia* es la tragedia definitoria de los grupos de pueblos sin alcance
-  misionero.
+  Su *ausencia* es la tragedia definitoria de los grupos de personas no
+  comprometidos.
 - **Ejemplo**: "No tienen acceso al evangelio" (encabezado de la página de
   Adoptar); "Un compromiso liderado por la iglesia de orar, dar y enviar para
   que comience el acceso al evangelio" (página de Adoptar)
@@ -187,23 +188,23 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Involucramiento con el evangelio ★ Término clave
+### Compromiso con el evangelio ★ Término clave
 
 - **Significado**: La proclamación activa y continua y la vivencia del
-  evangelio entre un grupo de pueblos; se usa en el contexto de oración
-  ("preparar el camino para el involucramiento con el evangelio mediante la
+  evangelio entre un grupo de personas; se usa en el contexto de oración
+  ("preparar el camino para el compromiso con el evangelio mediante la
   oración").
-- **Ejemplo**: "Ayuda a preparar el camino para el involucramiento con el
+- **Ejemplo**: "Ayuda a preparar el camino para el compromiso con el
   evangelio mediante la oración" (página de Orar)
 - **Por qué importa**: Distinto de "acceso al evangelio" (disponibilidad) —
-  "involucramiento con el evangelio" es el trabajo misional activo en sí mismo.
+  "compromiso con el evangelio" es el trabajo misional activo en sí mismo.
   Evitar traducirlo como una campaña de marketing o de medios.
 
 ---
 
 ### Movimiento de plantación de iglesias (MPI) ★ Término clave
 
-- **Definición del sitio**: "Una multiplicación de iglesias indígenas que
+- **Definición del sitio**: "Una multiplicación de iglesias autóctonas que
   plantan iglesias, que incluye al menos cuatro corrientes de cuatro
   generaciones espirituales que juntas suman más de 1.000 personas." (página
   de Definiciones)
@@ -216,36 +217,36 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Iglesia indígena / iglesia autóctona
+### Iglesia autóctona
 
-- **Significado**: Una iglesia que surge desde dentro del grupo de pueblos y
+- **Significado**: Una iglesia que surge desde dentro del grupo de personas y
   que es autosustentable y madura en los "cinco autos".
-- **Ejemplo**: "Hay una iglesia indígena plantada entre cada grupo de pueblos
+- **Ejemplo**: "Hay una iglesia autóctona plantada entre cada grupo de personas
   en la tierra" (metas de Visión); "carece de la capacidad para establecer
-  iglesias indígenas sin asistencia intercultural" (Definiciones)
-- **Por qué importa**: "Indígena" significa con raíces locales y autogobernada,
+  iglesias autóctonas sin obreros transculturales" (Definiciones)
+- **Por qué importa**: "Autóctona" significa con raíces locales y autogobernada,
   no "religión nativa" ni "animista". Aclarar si es necesario para evitar
   asociaciones con el sincretismo.
 
 ---
 
-### Los cinco "autos" (de una iglesia indígena)
+### Los cinco "auto" de una iglesia autóctona
 
-- **Significado**: Los cinco marcadores de una iglesia indígena madura:
-  auto-propagación, auto-gobierno, auto-sustento, auto-teologización,
-  auto-misionización. (página de Definiciones)
+- **Significado**: Los cinco marcadores de una iglesia autóctona madura:
+  autogobierno, autosustento, autopropagación, autoteologización y
+  automisiología. (página de Definiciones)
 - **Por qué importa**: Este es un marco estándar de misiones. Los traductores
   deben usar equivalentes establecidos si existen en el idioma de destino; si
   no, cada compuesto con "auto-" necesita una traducción consistente.
 
 ---
 
-### Involucramiento residencial / obreros residentes
+### Compromiso residencial / trabajadores residentes
 
-- **Significado**: Obreros interculturales que *viven entre* el grupo de
-  pueblos (no de forma remota o como visitantes). Un requisito para la
-  definición de involucramiento de WAGF.
-- **Ejemplo**: "Los obreros interculturales son residentes" (página de Visión);
+- **Significado**: Obreros transculturales que *viven entre* el grupo de
+  personas (no de forma remota o como visitantes). Un requisito para la
+  definición de compromiso de WAGF.
+- **Ejemplo**: "Los obreros transculturales son residentes" (página de Visión);
   "Esfuerzo apostólico (pionero) en residencia" (página de Definiciones)
 - **Por qué importa**: "Residente" versus "no residente" es una distinción
   clave en el sitio. Las traducciones no deben simplificar esto a simplemente
@@ -253,14 +254,14 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Obreros interculturales
+### Obreros transculturales
 
 - **Significado**: Trabajadores misioneros de una cultura diferente que sirven
-  entre un grupo de pueblos. Se usa como término preferido en lugar de
+  entre un grupo de personas. Se usa como término preferido en lugar de
   "misionero" en algunos contextos.
-- **Ejemplo**: "carece de la capacidad para establecer iglesias indígenas sin
-  asistencia intercultural" (Definiciones)
-- **Por qué importa**: El calificativo "intercultural" es intencional — estos
+- **Ejemplo**: "carece de la capacidad para establecer iglesias autóctonas sin
+  obreros transculturales" (Definiciones)
+- **Por qué importa**: El calificativo "transcultural" es intencional — estos
   no son obreros del propio grupo. Usar un término que transmita diferencia
   cultural, no simplemente "extranjero".
 
@@ -270,7 +271,7 @@ preservar esos umbrales íntegros.
 
 - **Significado**: Trabajo misional de vanguardia que comienza donde no hay
   iglesias ni creyentes. Uno de los cuatro criterios para que un grupo de
-  pueblos sea considerado "involucrado".
+  personas sea considerado "comprometido".
 - **Ejemplo**: "Esfuerzo apostólico (pionero) en residencia" (página de
   Definiciones)
 - **Por qué importa**: "Apostólico" aquí significa enviado/pionero, no un
@@ -281,7 +282,7 @@ preservar esos umbrales íntegros.
 
 ### Trabajo pionero
 
-- **Significado**: La fase inicial de evangelización entre un pueblo fronterizo
+- **Significado**: La fase inicial de evangelización entre un grupo fronterizo
   donde no hay creyentes para comenzar.
 - **Ejemplo**: "El trabajo pionero generalmente debe comenzar con no creyentes"
   (página de Definiciones)
@@ -290,7 +291,7 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Idioma del corazón / lengua materna
+### Lengua del corazón
 
 - **Significado**: La primera lengua de una persona — el idioma en el que
   piensa y siente con mayor profundidad.
@@ -309,20 +310,20 @@ preservar esos umbrales íntegros.
   grupo que se vuelven a seguir a Jesús — en contraposición a conversiones
   aisladas.
 - **Ejemplo**: "Ningún movimiento confirmado y sostenido hacia Jesús"
-  (definición de pueblo fronterizo)
+  (definición de grupo fronterizo)
 - **Por qué importa**: Esto se refiere específicamente a un movimiento
   espiritual *sostenido y multiplicador*, no a una conversión individual o
   activismo social.
 
 ---
 
-### Socios no residentes
+### Asociados no residentes
 
 - **Significado**: Iglesias, agencias o individuos que apoyan el
-  involucramiento desde fuera del campo — mediante oración, donaciones,
+  compromiso desde fuera del campo — mediante oración, donaciones,
   traducción de la Biblia, medios de comunicación, etc.
-- **Ejemplo**: "El involucramiento más amplio incluye componentes contribuyentes
-  importantes que pueden ser realizados por socios no residentes, incluida la
+- **Ejemplo**: "Los componentes de mayor compromiso incluyen elementos
+  importantes que pueden ser realizados por asociados no residentes, incluida la
   oración intercesora, la traducción de la Biblia, ministerios de compasión y
   atención ante desastres…" (página de Definiciones)
 - **Por qué importa**: Ayuda a las personas a comprender que pueden participar
@@ -330,14 +331,14 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Involucramiento más amplio (componentes)
+### Componentes de mayor compromiso
 
 - **Significado**: Los elementos contribuyentes (pero no suficientes por sí
-  solos) de la misión que los socios no residentes pueden realizar: oración
+  solos) de la misión que los asociados no residentes pueden realizar: oración
   intercesora, traducción de la Biblia, ministerios de compasión y atención
   ante desastres, alcance mediático, esfuerzos de movilización, capacitación
   de liderazgo, trabajo entre la diáspora.
-- **Ejemplo**: "El involucramiento más amplio incluye componentes contribuyentes
+- **Ejemplo**: "Los componentes de mayor compromiso incluyen elementos
   importantes" (página de Definiciones)
 - **Por qué importa**: Esta lista aclara que la adopción y la oración son
   participación genuina en la misión, incluso sin ir al campo.
@@ -346,12 +347,12 @@ preservar esos umbrales íntegros.
 
 ### Diáspora
 
-- **Significado**: Miembros de un grupo de pueblos que viven fuera de su
-  tierra natal. Mencionada como componente del involucramiento más amplio.
+- **Significado**: Miembros de un grupo de personas que viven fuera de su
+  tierra natal. Mencionada como componente de los componentes de mayor compromiso.
 - **Ejemplo**: "Trabajo entre la diáspora" (página de Definiciones)
 - **Por qué importa**: A menudo es un préstamo lingüístico en muchos idiomas;
   si es así, puede mantenerse. Aclarar que significa *comunidades dispersas*
-  de un grupo de pueblos, no refugiados en general.
+  de un grupo de personas, no refugiados en general.
 
 ---
 
@@ -359,12 +360,12 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Oración diaria (por un grupo de pueblos) ★ Término clave
+### Oración diaria (por un grupo específico) ★ Término clave
 
-- **Significado**: El compromiso de orar por un grupo de pueblos sin alcance
-  misionero específico todos los días, típicamente usando la guía de oración
+- **Significado**: El compromiso de orar por un grupo de personas no
+  comprometido específico todos los días, típicamente usando la guía de oración
   diaria de Doxa.Life.
-- **Ejemplo**: "Elige un grupo de pueblos sin alcance misionero por el que te
+- **Ejemplo**: "Elige un grupo de personas no comprometido por el que te
   comprometerás a orar diariamente." (página de Orar)
 - **Por qué importa**: "Diaria" es intencional y forma parte del cálculo de
   cobertura de 24 horas. Evitar traducir como "oración regular" u "oración
@@ -372,7 +373,7 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Cobertura de oración de 24 horas
+### Cobertura en oración las 24 horas
 
 - **Significado**: El objetivo de tener al menos 144 intercesores orando cada
   10 minutos al día por un PNANC específico, lo que en conjunto suma 24 horas
@@ -387,8 +388,9 @@ preservar esos umbrales íntegros.
 
 ### Intercesor / intercesores
 
-- **Significado**: Una persona que se compromete a orar en nombre de un PNANC.
-  Meta: 144+ por PNANC (para cobertura de 24 horas), luego 1.000+ por PNANC.
+- **Significado**: Una persona que se compromete a orar por un grupo no
+  alcanzado ni comprometido. Meta: 144+ por PNANC (para cobertura de 24 horas),
+  luego 1.000+ por PNANC.
 - **Ejemplo**: "Levantar 144+ intercesores diarios para orar 10 minutos al
   día." (página de Adoptar)
 - **Por qué importa**: Usar el término eclesiástico establecido para intercesor
@@ -399,27 +401,27 @@ preservar esos umbrales íntegros.
 ### Oración intercesora
 
 - **Significado**: Oración ofrecida en nombre de otros — específicamente por
-  grupos de pueblos por los que nadie está orando.
-- **Ejemplo**: "El involucramiento más amplio incluye… oración intercesora"
+  grupos de personas por los que nadie está orando.
+- **Ejemplo**: "Los componentes de mayor compromiso incluyen… oración intercesora"
   (Definiciones)
 - **Por qué importa**: Distinguir de la oración devocional personal; enfatizar
   la dimensión *en nombre de otros*.
 
 ---
 
-### Guía de oración diaria / puntos de oración diarios
+### Guía diaria de oración / motivos diarios de oración
 
 - **Significado**: El correo electrónico o recurso de contenido diario que
   Doxa.Life envía a los intercesores registrados — que incluye temas de oración
   basados en las Escrituras, necesidades de oración del campo, fotos, historias
-  e información clave sobre el grupo de pueblos.
+  e información clave sobre el grupo de personas.
 - **Ejemplo**: "Recibe puntos de oración diarios y únete a creyentes de todo
   el mundo en oración" (página de inicio); "Tu guía de oración diaria: temas
   de oración centrados en la Escritura, reflexión y orientación guiadas por el
   Espíritu, necesidades reales de oración del campo, fotos, historias y
-  testimonios, información clave sobre el grupo de pueblos" (página de Orar)
+  testimonios, información clave sobre el grupo de personas" (página de Orar)
 - **Por qué importa**: La "guía" y los "puntos" son distintos de los
-  devocionales generales — son específicos, enfocados en el grupo de pueblos y
+  devocionales generales — son específicos, enfocados en el grupo de personas y
   conectados al campo.
 
 ---
@@ -433,17 +435,17 @@ preservar esos umbrales íntegros.
   del Espíritu Santo mucho antes de que lleguen los obreros o se proclame el
   evangelio." (página de Orar)
 - **Por qué importa**: Una frase motivacional clave para explicar por qué la
-  oración es el primer paso del involucramiento, no simplemente un complemento
+  oración es el primer paso del compromiso, no simplemente un complemento
   del mismo.
 
 ---
 
-### Señor de la mies
+### El Señor de la cosecha
 
 - **Significado**: Un título bíblico para Jesús (Mateo 9:38), utilizado en el
-  llamado a orar para que Él envíe obreros a los sin alcance misionero.
-- **Ejemplo**: "Ora con fervor al Señor de la mies … que Él envíe obreros a
-  los [Sin Alcance Misionero]." (página de Orar)
+  llamado a orar para que Él envíe obreros a los grupos no comprometidos.
+- **Ejemplo**: "Ora con fervor al Señor de la cosecha … que Él envíe obreros a
+  los [grupos no comprometidos]." (página de Orar)
 - **Por qué importa**: Alinearse con la frase establecida de la traducción
   bíblica en el idioma de destino. La metáfora agrícola (mies = personas listas
   para responder) debe mantenerse.
@@ -454,17 +456,17 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Adoptar (un grupo de pueblos sin alcance misionero) ★ Término clave
+### Adoptar un grupo de personas no comprometido ★ Término clave
 
 - **Significado**: Un compromiso formal y a largo plazo liderado por una
   iglesia de orar, dar y enviar para que comience el acceso al evangelio para
-  un grupo de pueblos sin alcance misionero específico.
+  un grupo de personas no comprometido específico.
 - **Ejemplo**: "Un compromiso liderado por la iglesia de orar, dar y enviar
   para que comience el acceso al evangelio" (página de Adoptar)
 - **Por qué importa**: Evitar el lenguaje legal de adopción familiar (niños,
   custodia legal). El concepto es *patrocinio/compromiso misional* — una
-  iglesia asume responsabilidad estratégica por el involucramiento con un
-  grupo de pueblos.
+  iglesia asume responsabilidad estratégica por el compromiso con un grupo de
+  personas.
 
 ---
 
@@ -494,7 +496,7 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Agencia misionera / agencia enviadora
+### Agencia enviadora / agencias enviadoras
 
 - **Significado**: Organizaciones autorizadas para reclutar, capacitar, apoyar
   y enviar misioneros. DOXA trabaja con las agencias enviadoras pero no las
@@ -507,11 +509,12 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Nuestro regalo a Jesús
+### Nuestro regalo para Jesús
 
 - **Significado**: La metáfora de encuadre de la misión — involucrar a cada
-  grupo de pueblos es el regalo colectivo de adoración de la iglesia a Jesús.
-- **Ejemplo**: "Nuestro regalo a Jesús: Involucrar a cada pueblo para 2033"
+  grupo de personas es el regalo colectivo de adoración de la iglesia a Jesús.
+- **Ejemplo**: "Nuestro regalo para Jesús: Involucrar a todos los grupos de
+  personas para 2033"
   (página de inicio)
 - **Por qué importa**: Un marco motivacional y de adoración. Debe sentirse
   sacrificial y como una ofrenda, no transaccional.
@@ -522,33 +525,33 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Prioridad — "Involucrar a cada Grupo de Pueblos Sin Alcance Misionero para 2033"
+### Prioridad: "Involucrar a todos los grupos de personas no comprometidas para el año 2033"
 
 - **Significado**: El enfoque estratégico medible y con límite de tiempo de
   Doxa.Life.
-- **Ejemplo**: "Involucrar a cada Grupo de Pueblos Sin Alcance Misionero para
-  2033" (página de Visión)
+- **Ejemplo**: "Involucrar a todos los grupos de personas no comprometidas para
+  el año 2033" (página de Visión)
 - **Por qué importa**: "Prioridad" señala que este es el objetivo estratégico
   *más importante*, no uno entre muchos. La fecha límite de 2033 debe
   mantenerse exacta.
 
 ---
 
-### Vision 2033
+### Visión 2033
 
 - **Significado**: El encabezado de la visión general en la interfaz, que hace
   referencia a las metas de 2033 enumeradas en la página de Visión.
-- **Ejemplo**: "Vision 2033" (encabezado de la página de inicio)
+- **Ejemplo**: "Visión 2033" (encabezado de la página de inicio)
 - **Por qué importa**: Una etiqueta de nombre propio para el conjunto de metas
   de la iniciativa. Mantener el año intacto.
 
 ---
 
-### De toda tribu, lengua, pueblo y nación
+### Cada tribu, lengua, pueblo y nación
 
 - **Significado**: La visión bíblica de Apocalipsis 7:9 — el cuadro de
   adoración final que motiva la misión.
-- **Ejemplo**: "Jesús es digno de gloria de toda tribu, lengua, pueblo y
+- **Ejemplo**: "Jesús es digno de gloria de cada tribu, lengua, pueblo y
   nación." (página Acerca de — Sending Summit Declaration)
 - **Por qué importa**: Alinearse con la traducción bíblica establecida en el
   idioma de destino. Los cuatro sustantivos son teológicamente intencionales
@@ -558,22 +561,22 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Una multitud de todo pueblo alrededor del trono
+### Una multitud de todos los pueblos alrededor del trono
 
 - **Significado**: La escena de adoración escatológica de Apocalipsis 7:9; el
-  objetivo último que motiva todo involucramiento.
-- **Ejemplo**: "Un día habrá una multitud de todo pueblo alrededor del trono
+  objetivo último que motiva todo compromiso.
+- **Ejemplo**: "Un día habrá una multitud de todos los pueblos alrededor del trono
   adorando a Dios." (página Acerca de)
 - **Por qué importa**: Alinearse con la fraseología de la traducción bíblica
   local. Debe sentirse adoradora y definitiva, no meramente organizacional.
 
 ---
 
-### Misioneros de la asociación DOXA
+### Misioneros asociados a DOXA
 
-- **Significado**: Misioneros que sirven dentro de la red de asociación de
+- **Significado**: Misioneros que sirven dentro de la red de colaboración de
   Doxa.Life, coordinados a través de las agencias enviadoras.
-- **Ejemplo**: "Movilización de 20.000+ misioneros de la asociación DOXA"
+- **Ejemplo**: "Movilización de 20.000+ misioneros asociados a DOXA"
   (meta de la página de inicio)
 - **Por qué importa**: "Asociación" indica que estos no son empleados de DOXA
   sino obreros de agencias miembro que colaboran a través de la red.
@@ -588,7 +591,7 @@ preservar esos umbrales íntegros.
 
 - **Significado**: Seguidores de Jesús que están bautizados, reunidos y son
   reproducibles. Se usa como la unidad de medición para los umbrales de
-  involucramiento (p. ej., "2 discípulos o menos de cada 100").
+  compromiso (p. ej., "2 discípulos o menos de cada 100").
 - **Ejemplo**: "Una iglesia está compuesta por discípulos bautizados unidos por
   el Espíritu Santo" (Definiciones); "2 discípulos o menos de cada 100"
   (definición de UPG)
@@ -623,8 +626,8 @@ preservar esos umbrales íntegros.
 
 ### Culturalmente apropiado y localmente relevante
 
-- **Significado**: Uno de los tres criterios para que un grupo de pueblos sea
-  considerado "involucrado" — que el trabajo del evangelio se adapte a la
+- **Significado**: Uno de los tres criterios para que un grupo de personas sea
+  considerado "comprometido" — que el trabajo del evangelio se adapte a la
   cultura y el idioma del pueblo.
 - **Ejemplo**: "El trabajo ocurre de maneras culturalmente apropiadas y
   localmente relevantes." (página de Visión)
@@ -638,7 +641,7 @@ preservar esos umbrales íntegros.
 - **Significado**: Iglesias que pueden sostenerse financieramente, reproducirse
   a sí mismas y gobernarse a sí mismas sin dependencia externa.
 - **Ejemplo**: "Hay esfuerzos para establecer iglesias autosustentables"
-  (página de Visión — definición de involucramiento)
+  (página de Visión — definición de compromiso)
 - **Por qué importa**: "Autosustentable" es distinto de "independiente" —
   implica madurez saludable, no aislamiento.
 
@@ -693,7 +696,7 @@ preservar esos umbrales íntegros.
 - **Ejemplo**: "Involúcrate en las regiones más allá (2 Corintios 10:16)"
   (página de Visión)
 - **Por qué importa**: "Más allá" indica zonas fronterizas/pioneras. Vincular
-  con el concepto de pueblo fronterizo.
+  con el concepto de grupo fronterizo.
 
 ---
 
@@ -823,10 +826,10 @@ fundamental para la usabilidad.
 | **Visión** | Submenú de Acerca de | La página de visión |
 | **Declaración de Fe** | Submenú de Acerca de | Declaración doctrinal |
 | **Contáctenos** | Navegación/pie de página | Etiqueta de contacto estándar |
-| **Elige un grupo de pueblos** | CTAs de Orar y Adoptar | Selección intencional, no aleatoria; enfatizar el compromiso continuo |
+| **Elige un grupo de personas** | CTAs de Orar y Adoptar | Selección intencional, no aleatoria; enfatizar el compromiso continuo |
 | **Regístrate** | Paso 2 de Orar | Suscribirse/registrarse para los puntos de oración diarios |
 | **Guía de oración diaria** | Página de Orar | El recurso devocional por correo electrónico |
-| **Cobertura de Oración de 24 Horas** | Orar y Adoptar | Ver entrada completa arriba |
+| **Cobertura en oración las 24 horas** | Orar y Adoptar | Ver entrada completa arriba |
 | **Meta de Adopción / Estado Actual** | Estadísticas de la página de Adoptar | Progreso hacia la adopción de los 2.085 PNANCs |
 | **Cómo Funciona la Adopción** | Página de Adoptar | Encabezado de sección paso a paso |
 | **Por qué importa la adopción** | Página de Adoptar | Encabezado de sección motivacional |
@@ -842,14 +845,14 @@ ejemplos específicos del sitio:
 
 | Término clave | Sección |
 |--------------|---------|
-| Grupo de pueblos | §1 Terminología de grupos de pueblos |
-| Sin alcance misionero (grupo de pueblos) | §1 Terminología de grupos de pueblos |
-| No alcanzado (grupo de pueblos) | §1 Terminología de grupos de pueblos |
-| Insuficientemente alcanzado | §1 Terminología de grupos de pueblos |
-| Pueblo fronterizo | §1 Terminología de grupos de pueblos |
-| Adoptar (un grupo de pueblos) | §4 Adopción y movilización |
-| Orar (por un grupo de pueblos) | §3 Oración e intercesión + §4 |
-| Movimientos de plantación de iglesias | §2 Lenguaje de involucramiento y misión |
+| Grupo de personas | §1 Terminología de grupos de personas |
+| Grupo de personas no comprometido | §1 Terminología de grupos de personas |
+| Grupo de personas no alcanzado | §1 Terminología de grupos de personas |
+| Grupo de personas poco comprometido | §1 Terminología de grupos de personas |
+| Grupo fronterizo | §1 Terminología de grupos de personas |
+| Adoptar un grupo de personas no comprometido | §4 Adopción y movilización |
+| Orar (por un grupo específico) | §3 Oración e intercesión + §4 |
+| Movimientos de plantación de iglesias | §2 Lenguaje de compromiso y misión |
 | Oración diaria | §3 Oración e intercesión |
-| Involucramiento con el evangelio | §2 Lenguaje de involucramiento y misión |
-| Acceso al evangelio | §2 Lenguaje de involucramiento y misión |
+| Compromiso con el evangelio | §2 Lenguaje de compromiso y misión |
+| Acceso al evangelio | §2 Lenguaje de compromiso y misión |
