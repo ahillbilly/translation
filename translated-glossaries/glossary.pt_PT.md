@@ -1,8 +1,8 @@
 ---
 generated: 2026-02-26 16:15 UTC
 pages_crawled: 9
-method: AI analysis (Claude Sonnet 4.6 — full English page content)
-language: pt_PT
+method: AI extraction reviewed with live Portuguese translator decisions
+language: Portuguese (Brazil-leaning)
 pages:
   - https://doxa.life/
   - https://doxa.life/adopt/
@@ -14,98 +14,103 @@ pages:
   - https://doxa.life/contact-us/
   - https://doxa.life/about/statement-of-faith/
 purpose: >
-  Candidatos ao glossário identificados por análise de IA a todas as páginas
-  em inglês do Doxa.Life. Inclui os termos-semente especificados pelo utilizador
-  mais todos os termos adicionais cuja tradução incorrecta poderia comprometer
-  o significado ministerial do sítio. Rever e promover entradas para
-  resources/doxa-glossary.md.
+  Glossário português do Doxa.Life, desenvolvido a partir de uma extração
+  inicial por IA do conteúdo em inglês e atualizado com decisões de
+  tradutores portugueses ao vivo. Inclui os termos-semente especificados
+  pela equipe do projeto, além de termos adicionais cuja tradução incorreta
+  poderia comprometer o significado ministerial do site.
 note: >
-  Os termos estão agrupados por função, não por frequência. A etiqueta
-  "★ Termo fundamental" assinala os onze termos prioritários especificados
-  pela equipa do projecto.
+  Este arquivo deve ser tratado como um glossário revisado, não como uma
+  lista bruta de candidatos. A variante alvo é português com inclinação
+  brasileira, priorizando a clareza para usuários do Brasil, ainda que alguns
+  termos possam permanecer úteis para leitores lusófonos em geral. Os termos
+  estão agrupados por função, não por frequência. A etiqueta "★ Termo
+  fundamental" assinala os onze termos prioritários especificados pela
+  equipe do projeto.
 ---
 
-# Candidatos ao Glossário do Doxa.Life — Análise de IA
+# Glossário Português do Doxa.Life — Revisado por Tradutores
 
 ---
 
-## 1. Terminologia de grupos de povos
+## 1. Terminologia de povos
 
-Estes são os termos com maior precisão definitória no sítio. A página de
-**Definições** estabelece limiares numéricos exactos; as traduções devem
+Estes são os termos com maior precisão definitória no site. A página de
+**Definições** estabelece limiares numéricos exatos; as traduções devem
 preservar esses limiares intactos.
 
 ---
 
-### Grupo de povos ★ Termo fundamental
+### Povo ★ Termo fundamental
 
-- **Definição do sítio**: "Um grupo etnolinguístico cujos membros percebem
+- **Definição do site**: "Um grupo etnolinguístico cujos membros percebem
   entre si uma afinidade comum baseada na língua, na cultura, na religião e
   na cosmovisão … o grupo mais alargado possível no interior do qual o
   evangelho pode difundir-se como um movimento de plantação de igrejas viável
-  e indígena sem encontrar barreiras de compreensão ou de aceitação."
+  e autóctone sem encontrar barreiras de compreensão ou de aceitação."
   (página de Definições)
-- **Exemplo**: "2 085 grupos de povos sem alcance missionário" (manchete
+- **Exemplo**: "2 085 povos não engajados" (manchete
   da página inicial)
 - **Porque importa**: Esta é a unidade fundamental de medição de todo o
-  sítio. O conceito é étnico-linguístico, não político — "grupo de povos"
+  site. O conceito é étnico-linguístico, não político — "povo"
   não deve ser traduzido como "estado-nação", "tribo" (com conotações
   primitivas) ou "grupo social". Uma tradução imprecisa invalida todas
   as estatísticas.
 
 ---
 
-### Povo não alcançado (UPG) ★ Termo fundamental
+### Povo não alcançado (PNA) ★ Termo fundamental
 
-- **Definição do sítio**: "Possui aproximadamente 2 discípulos ou menos em
-  cada 100 (≤ 2%) e não tem capacidade para estabelecer igrejas indígenas
-  sem assistência intercultural." (página de Definições)
-- **Exemplo**: "Parceria Global pelos Não Alcançados" (slogan do sítio)
+- **Definição do site**: "Possui aproximadamente 2 discípulos ou menos em
+  cada 100 (≤ 2%) e não tem capacidade para estabelecer igrejas autóctones
+  sem assistência transcultural." (página de Definições)
+- **Exemplo**: "Parceria Global pelos Não Alcançados" (slogan do site)
 - **Porque importa**: O limiar (≤ 2%) deve ser reproduzível na tradução.
-  O conceito de *falta de capacidade* para a auto-propagação é tão
-  importante como a percentagem. Evitar formulações que sugiram que o
+  O conceito de *falta de capacidade* para a autopropagação é tão
+  importante como a porcentagem. Evitar formulações que sugiram que o
   grupo é espiritualmente "não eleito" ou socialmente marginal.
 
 ---
 
-### Sem alcance missionário (grupo de povos) ★ Termo fundamental
+### Não engajado (povo) ★ Termo fundamental
 
-- **Definição do sítio**: Um grupo de povos sem crentes conhecidos ou com
-  muito poucos, e que não possui os quatro níveis primários de envolvimento
-  efectivo (esforço apostólico residente; compromisso com a cultura local e
-  a língua do coração; compromisso ministerial a longo prazo; sementeira do
+- **Definição do site**: Um povo sem crentes conhecidos ou com
+  muito poucos, e que não possui os quatro níveis primários de engajamento
+  efetivo (esforço apostólico residente; compromisso com a cultura local e
+  a língua do coração; compromisso ministerial a longo prazo; semeadura do
   evangelho visando um MPI). (página de Definições)
-- **Exemplo**: "2 085 grupos de povos sem alcance missionário" / "Os grupos
-  de povos sem alcance missionário não têm missionários, nem igrejas, e
-  frequentemente não têm crentes conhecidos." (página de Adoptar)
-- **Porque importa**: "Sem alcance missionário" é um termo técnico que
-  significa *sem trabalho activo de plantação de igrejas*, não "socialmente
-  desligado" ou "emocionalmente indiferente". Uma tradução incorrecta
-  obscurece toda a urgência do apelo à acção do sítio.
+- **Exemplo**: "2 085 povos não engajados" / "Os povos não engajados não
+  têm missionários, nem igrejas, e
+  frequentemente não têm crentes conhecidos." (página de Adotar)
+- **Porque importa**: "Não engajado" é um termo técnico que
+  significa *sem trabalho ativo de plantação de igrejas*, não "socialmente
+  desligado" ou "emocionalmente indiferente". Uma tradução incorreta
+  obscurece toda a urgência do apelo à ação do site.
 
 ---
 
-### Grupo de povos sem alcance missionário e não alcançado (UUPG)
+### Povo não alcançado não engajado (PNANE)
 
 - **Significado**: A categoria combinada — não alcançado E que não possui
-  os quatro níveis de envolvimento efectivo. A página de pesquisa utiliza
-  "Encontrar um UUPG" como etiqueta de interface.
-- **Exemplo**: "Oração diária por cada um dos 2 085 UUPGs" (página de
+  os quatro níveis de engajamento efetivo. A página de pesquisa utiliza
+  "Encontrar um PNANE" como etiqueta de interface.
+- **Exemplo**: "Oração diária por cada um dos 2 085 PNANEs" (página de
   Visão)
-- **Porque importa**: UUPG é uma sigla estabelecida nas missões globais.
-  Manter uma sigla equivalente estável (p.ex., "UUPG") ou uma expressão
+- **Porque importa**: UUPG é uma sigla estabelecida nas missões globais;
+  em português, usar PNANE de forma consistente.
+  Manter uma sigla equivalente estável (p.ex., "PNANE") ou uma expressão
   usada de forma consistente em cada língua, para se alinhar com as
   ferramentas internacionais de oração.
 
 ---
 
-### Insuficientemente alcançado (grupo de povos) ★ Termo fundamental
+### Sub-engajado (povo) ★ Termo fundamental
 
-- **Definição do sítio**: "Possui aproximadamente 1 discípulo ou menos em
-  cada 100 (≤ 1%). São necessárias mais equipas de plantação de igrejas
-  para aumentar o envolvimento frutífero." (página de Definições)
-- **Exemplo**: "Envolvimento frutífero entre os povos de fronteira e os
-  insuficientemente alcançados" (página inicial)
+- **Definição do site**: "Possui aproximadamente 1 discípulo ou menos em
+  cada 100 (≤ 1%). São necessárias mais equipes de plantação de igrejas
+  para aumentar o engajamento frutífero." (página de Definições)
+- **Exemplo**: "Engajamento frutífero entre os povos de fronteira e os
+  sub-engajados" (página inicial)
 - **Porque importa**: O composto hifenizado aparece de forma consistente.
   Transmitir que o trabalho começou mas é *insuficiente na sua escala* —
   não que o povo em si seja indiferente.
@@ -114,23 +119,23 @@ preservar esses limiares intactos.
 
 ### Povo de fronteira ★ Termo fundamental
 
-- **Definição do sítio**: "Possui aproximadamente 1 discípulo ou menos em
+- **Definição do site**: "Possui aproximadamente 1 discípulo ou menos em
   cada 1 000 (≤ 0,1%) sem qualquer movimento confirmado e sustentado em
-  direcção a Jesus. Frequentemente isolado geograficamente com pouco ou
+  direção a Jesus. Frequentemente isolado geograficamente com pouco ou
   nenhum acesso ao evangelho; o trabalho pioneiro geralmente deve começar
   com não-crentes." (página de Definições)
-- **Exemplo**: "Envolvimento frutífero entre os povos de fronteira" (meta
+- **Exemplo**: "Engajamento frutífero entre os povos de fronteira" (meta
   da página inicial)
 - **Porque importa**: "Fronteira" sinaliza a vanguarda missiológica — os
   mais não alcançados de entre os não alcançados. Evitar conotações
   militares onde culturalmente sensíveis; preservar o sentido do "primeiro"
-  contacto com o evangelho.
+  contato com o evangelho.
 
 ---
 
 ### Grupo etnolinguístico
 
-- **Significado**: O descritor técnico do que constitui um grupo de povos
+- **Significado**: O descritor técnico do que constitui um povo
   (língua, cultura, religião e cosmovisão partilhadas). Não é usado como
   etiqueta autónoma na interface, mas está incorporado na definição da
   página de Definições.
@@ -140,47 +145,47 @@ preservar esses limiares intactos.
 
 ---
 
-## 2. Linguagem de envolvimento e missão
+## 2. Linguagem de engajamento e missão
 
 ---
 
-### Envolvimento / grupo de povos envolvido
+### Engajamento / povo engajado
 
-- **Definição do sítio** (página de Visão — "O que é o Envolvimento?"):
-  "Existe actividade sustentada para partilhar Cristo e fazer discípulos;
+- **Definição do site** (página de Visão — "O que é o Engajamento?"):
+  "Existe atividade sustentada para partilhar Cristo e fazer discípulos;
   há esforços para estabelecer igrejas autossustentáveis; o trabalho ocorre
   de formas culturalmente apropriadas e localmente relevantes." Para a
-  WAGF: os trabalhadores interculturais são residentes.
-- **Exemplo**: "Envolver cada Grupo de Povos Sem Alcance Missionário até
+  WAGF: os obreiros transculturais são residentes.
+- **Exemplo**: "Engajar cada Povo Não Engajado até
   2033" (Prioridade)
-- **Porque importa**: "Envolvimento" é um termo de precisão — residente,
-  sustentado, intercultural, orientado para o MPI. Uma tradução vaga como
-  "participação" ou "contacto" retira o significado central. Toda a
+- **Porque importa**: "Engajamento" é um termo de precisão — residente,
+  sustentado, transcultural, orientado para o MPI. Uma tradução vaga como
+  "participação" ou "contato" retira o significado central. Toda a
   declaração de prioridade depende disso.
 
 ---
 
-### Envolvimento frutífero
+### Engajamento frutífero
 
-- **Significado**: Envolvimento que está visivelmente a produzir discípulos
-  e igrejas, não apenas actividade. Usado nas metas da página inicial e na
+- **Significado**: Engajamento que está visivelmente a produzir discípulos
+  e igrejas, não apenas atividade. Usado nas metas da página inicial e na
   declaração da página Sobre Nós.
-- **Exemplo**: "Envolvimento frutífero, a longo prazo e residencial dos
-  povos sem alcance missionário do mundo" (Sending Summit Declaration)
+- **Exemplo**: "Engajamento frutífero, a longo prazo e residencial dos
+  povos não engajados do mundo" (Sending Summit Declaration)
 - **Porque importa**: O qualificador "frutífero" é teológica e
-  estrategicamente intencional — distingue a actividade dos resultados.
+  estrategicamente intencional — distingue a atividade dos resultados.
 
 ---
 
 ### Acesso ao evangelho ★ Termo fundamental
 
-- **Significado**: A condição de um grupo de povos ter o evangelho
+- **Significado**: A condição de um povo ter o evangelho
   disponível para si — através de trabalhadores, igrejas ou conteúdo
-  evangélico. A sua *ausência* é a tragédia definidora dos grupos de povos
-  sem alcance missionário.
+  evangélico. A sua *ausência* é a tragédia definidora dos povos não
+  engajados.
 - **Exemplo**: "Não têm acesso ao evangelho" (cabeçalho da página de
-  Adoptar); "Um compromisso liderado pela igreja de orar, dar e enviar
-  para que o acesso ao evangelho comece" (página de Adoptar)
+  Adotar); "Um compromisso liderado pela igreja de orar, dar e enviar
+  para que o acesso ao evangelho comece" (página de Adotar)
 - **Porque importa**: "Acesso" implica disponibilidade e acessibilidade,
   não apenas presença geográfica. Traduzir como "conhecimento do evangelho"
   ou "ouvir o evangelho" altera o significado de forma subtil mas
@@ -188,22 +193,22 @@ preservar esses limiares intactos.
 
 ---
 
-### Envolvimento com o evangelho ★ Termo fundamental
+### Engajamento do evangelho ★ Termo fundamental
 
-- **Significado**: A proclamação activa e contínua e a vivência do evangelho
-  entre um grupo de povos; usado no contexto de oração ("preparar o caminho
-  para o envolvimento com o evangelho através da oração").
-- **Exemplo**: "Ajuda a preparar o caminho para o envolvimento com o
-  evangelho através da oração" (página de Orar)
+- **Significado**: A proclamação ativa e contínua e a vivência do evangelho
+  entre um povo; usado no contexto de oração ("preparar o caminho para o
+  engajamento do evangelho através da oração").
+- **Exemplo**: "Ajuda a preparar o caminho para o engajamento do evangelho
+  através da oração" (página de Orar)
 - **Porque importa**: Distinto de "acesso ao evangelho" (disponibilidade)
-  — "envolvimento com o evangelho" é o próprio trabalho misional activo.
+  — "engajamento do evangelho" é o próprio trabalho misional ativo.
   Evitar traduzi-lo como uma campanha de marketing ou de comunicação.
 
 ---
 
 ### Movimento de plantação de igrejas (MPI) ★ Termo fundamental
 
-- **Definição do sítio**: "Uma multiplicação de igrejas indígenas que
+- **Definição do site**: "Uma multiplicação de igrejas autóctones que
   plantam igrejas, que inclui pelo menos quatro correntes de quatro gerações
   espirituais que juntas totalizam mais de 1 000 pessoas." (página de
   Definições)
@@ -216,53 +221,53 @@ preservar esses limiares intactos.
 
 ---
 
-### Igreja indígena / igreja autóctone
+### Igreja autóctone
 
-- **Significado**: Uma igreja que emerge do interior do grupo de povos e
+- **Significado**: Uma igreja que emerge do interior do povo e
   que é autossustentável e madura nos "cinco próprios".
-- **Exemplo**: "Existe uma igreja indígena plantada em cada grupo de povos
-  na terra" (metas de Visão); "não tem capacidade para estabelecer igrejas
-  indígenas sem assistência intercultural" (Definições)
-- **Porque importa**: "Indígena" significa com raízes locais e de
-  autogoverno, não "religião nativa" ou "animista". Esclarecer se necessário
+- **Exemplo**: "Existe uma igreja autóctone plantada em cada povo na
+  terra" (metas de Visão); "não tem capacidade para estabelecer igrejas
+  autóctones sem assistência transcultural" (Definições)
+- **Porque importa**: "Autóctone" significa com raízes locais e de
+  autogoverno, não uma religião nativa ou animista. Esclarecer se necessário
   para evitar associações sincretistas.
 
 ---
 
-### Os cinco "próprios" (de uma igreja indígena)
+### Os cinco "Autos" (de uma igreja autóctone)
 
-- **Significado**: Os cinco marcadores de uma igreja indígena madura:
-  auto-propagação, autogoverno, auto-sustento, auto-teologização,
-  auto-missionação. (página de Definições)
+- **Significado**: Os cinco marcadores de uma igreja autóctone madura:
+  autopropagação, autogoverno, autossustento, autoteologização,
+  automissionação. (página de Definições)
 - **Porque importa**: Este é um quadro missionário padrão. Os tradutores
-  devem usar equivalentes estabelecidos se existirem na língua de destino;
+  devem usar equivalentes estabelecidos se existirem na idioma de destino;
   caso contrário, cada composto com "auto-" necessita de uma tradução
   consistente.
 
 ---
 
-### Envolvimento residencial / trabalhadores residentes
+### Engajamento residencial / obreiros residentes
 
-- **Significado**: Trabalhadores interculturais que *vivem entre* o grupo
-  de povos (não à distância ou como visitantes). Um requisito para a
-  definição de envolvimento da WAGF.
-- **Exemplo**: "Os trabalhadores interculturais são residentes" (página de
+- **Significado**: Obreiros transculturais que *vivem entre* o povo
+  (não à distância ou como visitantes). Um requisito para a
+  definição de engajamento da WAGF.
+- **Exemplo**: "Os obreiros transculturais são residentes" (página de
   Visão); "Esforço apostólico (pioneiro) residente" (página de Definições)
 - **Porque importa**: "Residente" versus "não residente" é uma distinção
-  fundamental no sítio. As traduções não devem reduzir isto a simplesmente
+  fundamental no site. As traduções não devem reduzir isto a simplesmente
   "missionários".
 
 ---
 
-### Trabalhadores interculturais
+### Obreiros transculturais
 
-- **Significado**: Trabalhadores missionários de uma cultura diferente que
-  servem entre um grupo de povos. Usado como termo preferido em vez de
+- **Significado**: Obreiros missionários de uma cultura diferente que
+  servem entre um povo. Usado como termo preferido em vez de
   "missionário" em alguns contextos.
-- **Exemplo**: "não tem capacidade para estabelecer igrejas indígenas sem
-  assistência intercultural" (Definições)
-- **Porque importa**: O qualificador "intercultural" é intencional — estes
-  não são trabalhadores do interior do grupo. Usar um termo que transmita
+- **Exemplo**: "não tem capacidade para estabelecer igrejas autóctones sem
+  assistência transcultural" (Definições)
+- **Porque importa**: O qualificador "transcultural" é intencional — estes
+  não são obreiros do interior do povo. Usar um termo que transmita
   diferença cultural, não apenas "estrangeiro".
 
 ---
@@ -270,8 +275,8 @@ preservar esses limiares intactos.
 ### Esforço apostólico (pioneiro)
 
 - **Significado**: Trabalho missionário de vanguarda que começa onde não
-  existem igrejas ou crentes. Um dos quatro critérios para um grupo de
-  povos ser considerado "envolvido".
+  existem igrejas ou crentes. Um dos quatro critérios para um povo ser
+  considerado "engajado".
 - **Exemplo**: "Esforço apostólico (pioneiro) residente" (página de
   Definições)
 - **Porque importa**: "Apostólico" significa aqui enviado/pioneiro, não um
@@ -304,15 +309,15 @@ preservar esses limiares intactos.
 
 ---
 
-### Movimento em direcção a Jesus
+### Movimento em direção a Jesus
 
-- **Significado**: Um movimento colectivo e multiplicador de pessoas de
-  um grupo que se voltam para seguir Jesus — em oposição a conversões
+- **Significado**: Um movimento coletivo e multiplicador de pessoas de
+  um povo que se voltam para seguir Jesus — em oposição a conversões
   isoladas.
-- **Exemplo**: "Nenhum movimento confirmado e sustentado em direcção a
+- **Exemplo**: "Nenhum movimento confirmado e sustentado em direção a
   Jesus" (definição de povo de fronteira)
 - **Porque importa**: Refere-se especificamente a um movimento espiritual
-  *sustentado e multiplicador*, não a uma conversão individual ou activismo
+  *sustentado e multiplicador*, não a uma conversão individual ou ativismo
   social.
 
 ---
@@ -320,39 +325,39 @@ preservar esses limiares intactos.
 ### Parceiros não residentes
 
 - **Significado**: Igrejas, agências ou indivíduos que apoiam o
-  envolvimento a partir do exterior do campo — através de oração,
-  doações, tradução da Bíblia, comunicação social, etc.
-- **Exemplo**: "O envolvimento mais alargado inclui componentes contribuintes
+  engajamento a partir do exterior do campo — através de oração,
+  doações, tradução da Bíblia, mídia, etc.
+- **Exemplo**: "O engajamento mais amplo inclui componentes contribuintes
   importantes que podem ser realizados por parceiros não residentes,
   incluindo oração intercessória, tradução da Bíblia, ministérios de
-  compaixão e assistência em catástrofes…" (página de Definições)
+  compaixão e assistência em desastres…" (página de Definições)
 - **Porque importa**: Ajuda as pessoas a compreender que podem participar
   na missão mesmo sem ir ao campo.
 
 ---
 
-### Envolvimento mais alargado (componentes)
+### Engajamento mais amplo (componentes)
 
 - **Significado**: Os elementos contribuintes (mas não suficientes por si
   sós) da missão que os parceiros não residentes podem realizar: oração
   intercessória, tradução da Bíblia, ministérios de compaixão e assistência
-  em catástrofes, alcance mediático, esforços de mobilização, formação de
+  em desastres, alcance midiático, esforços de mobilização, formação de
   líderes, trabalho com a diáspora.
-- **Exemplo**: "O envolvimento mais alargado inclui componentes contribuintes
+- **Exemplo**: "O engajamento mais amplo inclui componentes contribuintes
   importantes" (página de Definições)
-- **Porque importa**: Esta lista esclarece que a adopção e a oração são
+- **Porque importa**: Esta lista esclarece que a adoção e a oração são
   participação genuína na missão, mesmo sem ir ao campo.
 
 ---
 
 ### Diáspora
 
-- **Significado**: Membros de um grupo de povos que vivem fora da sua
-  terra natal. Listada como componente do envolvimento mais alargado.
+- **Significado**: Membros de um povo que vivem fora da sua
+  terra natal. Listada como componente do engajamento mais amplo.
 - **Exemplo**: "Trabalho com a diáspora" (página de Definições)
 - **Porque importa**: Frequentemente é um empréstimo linguístico em muitas
   línguas; se assim for, pode manter-se. Esclarecer que significa
-  *comunidades dispersas* de um grupo de povos, não refugiados em geral.
+  *comunidades dispersas* de um povo, não refugiados em geral.
 
 ---
 
@@ -360,12 +365,12 @@ preservar esses limiares intactos.
 
 ---
 
-### Oração diária (por um grupo de povos) ★ Termo fundamental
+### Oração diária (por um povo) ★ Termo fundamental
 
-- **Significado**: O compromisso de orar por um grupo de povos sem alcance
-  missionário específico todos os dias, tipicamente usando o guia de oração
+- **Significado**: O compromisso de orar por um povo não engajado
+  específico todos os dias, tipicamente usando o guia de oração
   diário do Doxa.Life.
-- **Exemplo**: "Escolhe um grupo de povos sem alcance missionário pelo qual
+- **Exemplo**: "Escolhe um povo não engajado pelo qual
   te comprometes a orar diariamente." (página de Orar)
 - **Porque importa**: "Diária" é intencional e faz parte da matemática de
   cobertura de 24 horas. Evitar traduzir como "oração regular" ou "oração
@@ -375,10 +380,10 @@ preservar esses limiares intactos.
 
 ### Cobertura de oração de 24 horas
 
-- **Significado**: O objectivo de ter pelo menos 144 intercessores a orar
-  10 minutos por dia por um UUPG específico, o que coletivamente soma
+- **Significado**: O objetivo de ter pelo menos 144 intercessores a orar
+  10 minutos por dia por um PNANE específico, o que coletivamente soma
   24 horas de oração diária.
-- **Exemplo**: "Pelo menos 144 intercessores a orar por cada UUPG 10
+- **Exemplo**: "Pelo menos 144 intercessores a orar por cada PNANE 10
   minutos por dia (o que equivale a cobertura de oração de 24 horas)"
   (página de Visão)
 - **Porque importa**: A lógica matemática deve ser traduzível. Evitar que
@@ -389,11 +394,11 @@ preservar esses limiares intactos.
 
 ### Intercessor / intercessores
 
-- **Significado**: Uma pessoa que se compromete a orar em nome de um UUPG.
-  Objectivo: 144+ por UUPG (para cobertura de 24 horas), depois 1 000+
-  por UUPG.
+- **Significado**: Uma pessoa que se compromete a orar em nome de um PNANE.
+  Objetivo: 144+ por PNANE (para cobertura de 24 horas), depois 1 000+
+  por PNANE.
 - **Exemplo**: "Levantar 144+ intercessores diários a orar 10 minutos
-  por dia." (página de Adoptar)
+  por dia." (página de Adotar)
 - **Porque importa**: Usar o termo eclesiástico estabelecido para intercessor
   / guerreiro de oração, não uma conotação judicial ou governamental.
 
@@ -402,8 +407,8 @@ preservar esses limiares intactos.
 ### Oração intercessória
 
 - **Significado**: Oração oferecida em nome de outros — especificamente
-  por grupos de povos pelos quais ninguém está a orar.
-- **Exemplo**: "O envolvimento mais alargado inclui… oração intercessória"
+  por povos pelos quais ninguém está a orar.
+- **Exemplo**: "O engajamento mais amplo inclui… oração intercessória"
   (Definições)
 - **Porque importa**: Distinguir da oração devocional pessoal; enfatizar
   a dimensão *em nome de outros*.
@@ -413,17 +418,17 @@ preservar esses limiares intactos.
 ### Guia de oração diário / pontos de oração diários
 
 - **Significado**: O e-mail diário ou recurso de conteúdo que o Doxa.Life
-  envia aos intercessores registados — incluindo temas de oração baseados
-  na Escritura, necessidades de oração do campo, fotografias, histórias e
-  informações-chave sobre o grupo de povos.
+  envia aos intercessores registrados — incluindo temas de oração baseados
+  na Escritura, necessidades de oração do campo, fotos, histórias e
+  informações-chave sobre o povo.
 - **Exemplo**: "Recebe pontos de oração diários e junta-te a crentes em
   todo o mundo na oração" (página inicial); "O teu guia de oração diário:
   temas de oração centrados na Escritura, reflexão e orientação guiadas
-  pelo Espírito, necessidades reais de oração do campo, fotografias,
-  histórias e testemunhos, informações-chave sobre o grupo de povos"
+  pelo Espírito, necessidades reais de oração do campo, fotos,
+  histórias e testemunhos, informações-chave sobre o povo"
   (página de Orar)
 - **Porque importa**: O "guia" e os "pontos" são distintos dos devocionais
-  gerais — são específicos, centrados no grupo de povos e conectados ao
+  gerais — são específicos, centrados no povo e conectados ao
   campo.
 
 ---
@@ -437,89 +442,92 @@ preservar esses limiares intactos.
   do Espírito Santo muito antes de os trabalhadores chegarem ou o evangelho
   ser proclamado." (página de Orar)
 - **Porque importa**: Uma frase motivacional fundamental para explicar por
-  que razão a oração é o primeiro passo do envolvimento, não apenas um
+  que razão a oração é o primeiro passo do engajamento, não apenas um
   complemento.
 
 ---
 
-### Senhor da messe
+### Senhor da seara
 
 - **Significado**: Um título bíblico para Jesus (Mateus 9:38), usado no
-  apelo a orar para que Ele envie trabalhadores para os sem alcance
-  missionário.
-- **Exemplo**: "Orai com fervor ao Senhor da messe … que Ele envie
-  trabalhadores para os [Sem Alcance Missionário]." (página de Orar)
+  apelo a orar para que Ele envie trabalhadores para os não engajados.
+- **Exemplo**: "Orai com fervor ao Senhor da seara … que Ele envie
+  trabalhadores para os [Não Engajados]." (página de Orar)
 - **Porque importa**: Alinhar com a expressão estabelecida da tradução
-  bíblica na língua de destino. A metáfora agrícola (messe = pessoas
+  bíblica na idioma de destino. A metáfora agrícola (messe = pessoas
   prontas a responder) deve ser preservada.
 
 ---
 
-## 4. Adopção e mobilização
+## 4. Adoção e mobilização
 
 ---
 
-### Adoptar (um grupo de povos sem alcance missionário) ★ Termo fundamental
+### Adotar (um povo não engajado) ★ Termo fundamental
 
 - **Significado**: Um compromisso formal e a longo prazo liderado pela
   igreja de orar, dar e enviar para que o acesso ao evangelho comece para
-  um grupo de povos sem alcance missionário específico.
+  um povo não engajado específico.
 - **Exemplo**: "Um compromisso liderado pela igreja de orar, dar e enviar
-  para que o acesso ao evangelho comece" (página de Adoptar)
-- **Porque importa**: Evitar a linguagem legal de adopção familiar (crianças,
+  para que o acesso ao evangelho comece" (página de Adotar)
+- **Porque importa**: Evitar a linguagem legal de adoção familiar (crianças,
   custódia legal). O conceito é *patrocínio/compromisso misional* — uma
-  igreja assume responsabilidade estratégica pelo envolvimento com um grupo
-  de povos.
+  igreja assume responsabilidade estratégica pelo engajamento com um povo.
 
 ---
 
 ### Orar, dar e enviar
 
-- **Significado**: Os três pilares da adopção — oração intercessória, apoio
+- **Significado**: Os três pilares da adoção — oração intercessória, apoio
   financeiro e envio de trabalhadores.
+- **Formas**: Infinitivo: "Orar, dar e enviar"; imperativo: "Ore,
+  Contribua e Envie"; substantivos: "Oração, Contribuição e Envio";
+  gerúndio: "Orando, contribuindo e enviando".
 - **Exemplo**: "As igrejas e redes assumem a responsabilidade — orando,
-  dando e preparando o caminho para os trabalhadores do evangelho." (página
+  contribuindo e preparando o caminho para os trabalhadores do evangelho." (página
   inicial); "Parceria através da oração, das doações e do envio" (página
-  de Adoptar)
+  de Adotar)
 - **Porque importa**: Esta tríade é usada de forma consistente. As três
-  acções devem ser traduzidas com verbos activos e participativos, não
+  ações devem ser traduzidas com verbos ativos e participativos, não
   passivos ou devocionais.
 
 ---
 
 ### Mobilizar / mobilização
 
-- **Significado**: Levantar e activar intercessores e participantes numa
+- **Significado**: Levantar e ativar intercessores e participantes numa
   congregação ou rede.
+- **Formas**: "Mobilizar" (infinitivo), "Mobilize" (imperativo) e
+  "mobilização" (substantivo).
 - **Exemplo**: "Levantar 144+ intercessores diários" / "Ferramentas para
   mobilizar a oração e a participação em toda a tua congregação" (página
-  de Adoptar)
-- **Porque importa**: "Mobilizar" implica movimento activo em direcção a
-  um objectivo. Evitar palavras passivas como "informar" ou "convidar".
+  de Adotar)
+- **Porque importa**: "Mobilizar" implica movimento ativo em direção a
+  um objetivo. Evitar palavras passivas como "informar" ou "convidar".
 
 ---
 
-### Agência de envio / agências de envio
+### Agência enviadora / agências enviadoras
 
 - **Significado**: Organizações autorizadas a recrutar, formar, apoiar e
-  enviar missionários. A DOXA trabalha com as agências de envio mas não as
+  enviar missionários. A DOXA trabalha com as agências enviadoras mas não as
   substitui.
 - **Exemplo**: "Cada departamento de missões afiliado à World Assemblies
-  of God Fellowship (129 agências de envio diferentes a partir de 2026)
+  of God Fellowship (129 agências enviadoras diferentes a partir de 2026)
   é automaticamente um parceiro da DOXA." (página Sobre Nós)
 - **Porque importa**: Um termo técnico nas estruturas missionárias. Os
   tradutores devem usar o equivalente local estabelecido se existir.
 
 ---
 
-### O nosso presente a Jesus
+### Nossa oferta a Jesus
 
-- **Significado**: A metáfora enquadradora da missão — envolver cada grupo
-  de povos é o presente colectivo de adoração da igreja a Jesus.
-- **Exemplo**: "O nosso presente a Jesus: Envolver cada povo até 2033"
+- **Significado**: A metáfora enquadradora da missão — engajar cada povo
+  é a oferta coletiva de adoração da igreja a Jesus.
+- **Exemplo**: "Nossa oferta a Jesus: Engajar cada povo até 2033"
   (página inicial)
 - **Porque importa**: Um enquadramento motivacional e de adoração. Deve
-  sentir-se sacrificial e como uma oferta, não transaccional.
+  sentir-se sacrificial e como uma oferta, não transacional.
 
 ---
 
@@ -527,15 +535,15 @@ preservar esses limiares intactos.
 
 ---
 
-### Prioridade — "Envolver cada Grupo de Povos Sem Alcance Missionário até 2033"
+### Prioridade — "Engajar cada Povo Não Engajado até 2033"
 
 - **Significado**: O foco estratégico limitado no tempo e mensurável do
   Doxa.Life.
-- **Exemplo**: "Envolver cada Grupo de Povos Sem Alcance Missionário até
+- **Exemplo**: "Engajar cada Povo Não Engajado até
   2033" (página de Visão)
-- **Porque importa**: "Prioridade" sinaliza que este é o objectivo
+- **Porque importa**: "Prioridade" sinaliza que este é o objetivo
   estratégico *mais importante*, não um entre muitos. O prazo de 2033
-  deve ser mantido exacto.
+  deve ser mantido exato.
 
 ---
 
@@ -549,7 +557,7 @@ preservar esses limiares intactos.
 
 ---
 
-### De toda tribo, língua, povo e nação
+### Toda tribo, língua, povo e nação
 
 - **Significado**: A visão bíblica do Apocalipse 7:9 — o quadro de adoração
   final que motiva a missão.
@@ -562,22 +570,22 @@ preservar esses limiares intactos.
 
 ---
 
-### Uma multidão de todo povo ao redor do trono
+### Uma multidão de todos os povos ao redor do trono
 
 - **Significado**: A cena de adoração escatológica do Apocalipse 7:9; o
-  objectivo último que motiva todo o envolvimento.
-- **Exemplo**: "Um dia haverá uma multidão de todo povo ao redor do trono
+  objetivo último que motiva todo o engajamento.
+- **Exemplo**: "Um dia haverá uma multidão de todos os povos ao redor do trono
   adorando a Deus." (página Sobre Nós)
 - **Porque importa**: Alinhar com a formulação da tradução bíblica local.
   Deve sentir-se adorável e definitivo, não meramente organizacional.
 
 ---
 
-### Missionários da parceria DOXA
+### Missionários da parceria de DOXA
 
 - **Significado**: Missionários que servem dentro da rede de parceria do
-  Doxa.Life, coordenados através das agências de envio.
-- **Exemplo**: "Mobilização de 20 000+ missionários da parceria DOXA"
+  Doxa.Life, coordenados através das agências enviadoras.
+- **Exemplo**: "Mobilização de 20 000+ Missionários da parceria de DOXA"
   (meta da página inicial)
 - **Porque importa**: "Parceria" sinaliza que estes não são funcionários
   da DOXA mas trabalhadores de agências membros que colaboram através
@@ -593,10 +601,10 @@ preservar esses limiares intactos.
 
 - **Significado**: Seguidores de Jesus que estão batizados, reunidos e são
   reprodutíveis. Usado como unidade de medição para os limiares de
-  envolvimento (p.ex., "2 discípulos ou menos em cada 100").
+  engajamento (p.ex., "2 discípulos ou menos em cada 100").
 - **Exemplo**: "Uma igreja é constituída por discípulos batizados reunidos
   pelo Espírito Santo" (Definições); "2 discípulos ou menos em cada 100"
-  (definição de UPG)
+  (definição de PNA)
 - **Porque importa**: Usar a palavra cristã estabelecida para discípulo,
   não "estudante", "seguidor" (genérico) ou "convertido". O uso da métrica
   numérica deve permanecer ligado a este significado teológico.
@@ -606,7 +614,7 @@ preservar esses limiares intactos.
 ### Discípulos batizados
 
 - **Significado**: A definição formal de pertença à igreja no Doxa.Life —
-  pessoas que seguiram Jesus no baptismo de crentes e estão reunidas pelo
+  pessoas que seguiram Jesus no batismo de crentes e estão reunidas pelo
   Espírito Santo.
 - **Exemplo**: "Uma igreja é constituída por discípulos batizados reunidos
   pelo Espírito Santo" (página de Definições)
@@ -618,9 +626,9 @@ preservar esses limiares intactos.
 ### Fazei discípulos de todas as nações
 
 - **Significado**: O mandato da Grande Comissão de Mateus 28:19, citado
-  na secção de Missão.
+  na seção de Missão.
 - **Exemplo**: "Para a glória de Deus, fazei discípulos de todas as nações
-  indo, baptizando e ensinando." (página de Visão — Missão)
+  indo, batizando e ensinando." (página de Visão — Missão)
 - **Porque importa**: Alinhar com a tradução bíblica de confiança local.
   "Nações" aqui significa povos étnicos, não países.
 
@@ -628,8 +636,8 @@ preservar esses limiares intactos.
 
 ### Culturalmente apropriado e localmente relevante
 
-- **Significado**: Um dos três critérios para um grupo de povos ser
-  considerado "envolvido" — que o trabalho do evangelho se adapte à cultura
+- **Significado**: Um dos três critérios para um povo ser considerado
+  "engajado" — que o trabalho do evangelho se adapte à cultura
   e à língua do povo.
 - **Exemplo**: "O trabalho ocorre de formas culturalmente apropriadas e
   localmente relevantes." (página de Visão)
@@ -643,7 +651,7 @@ preservar esses limiares intactos.
 - **Significado**: Igrejas que se podem sustentar financeiramente, reproduzir
   a si próprias e governar a si próprias sem dependência externa.
 - **Exemplo**: "Há esforços para estabelecer igrejas autossustentáveis"
-  (página de Visão — definição de envolvimento)
+  (página de Visão — definição de engajamento)
 - **Porque importa**: "Autossustentável" é distinto de "independente" —
   implica maturidade saudável, não isolamento.
 
@@ -691,11 +699,11 @@ preservar esses limiares intactos.
 
 ---
 
-### Envolve-te nas regiões além
+### Engaja-te nas regiões além
 
 - **Significado**: Valor central de 2 Coríntios 10:16 — alcançar além de
   onde o evangelho já chegou.
-- **Exemplo**: "Envolve-te nas regiões além (2 Coríntios 10:16)" (página
+- **Exemplo**: "Engaja-te nas regiões além (2 Coríntios 10:16)" (página
   de Visão)
 - **Porque importa**: "Além" sinaliza zonas de fronteira/pioneiras. Ligar
   ao conceito de povo de fronteira.
@@ -709,7 +717,7 @@ preservar esses limiares intactos.
 ### DOXA
 
 - **Significado**: A palavra grega para "glória" — o nome da iniciativa
-  que enfatiza que o objectivo da missão é a glória de Deus, não a
+  que enfatiza que o objetivo da missão é a glória de Deus, não a
   realização humana.
 - **Exemplo**: "DOXA é a palavra grega para 'GLÓRIA'." (página inicial)
 - **Porque importa**: Manter como nome próprio. Pode acrescentar-se uma
@@ -721,12 +729,12 @@ preservar esses limiares intactos.
 ### World Assemblies of God Fellowship (WAGF)
 
 - **Significado**: A comunhão global que fundou e tutela o Doxa.Life.
-  Compreende 129 agências de envio afiliadas (a partir de 2026).
+  Compreende 129 agências enviadoras afiliadas (a partir de 2026).
 - **Exemplo**: "A DOXA foi fundada e é tutelada pela World Assemblies of
   God Fellowship (WAGF)" (página Sobre Nós)
 - **Porque importa**: Um nome próprio — não traduzir. Acrescentar uma
-  breve frase explicativa se necessário ("Comunhão das Assembléias de Deus
-  Mundial"). A sigla WAGF deve ser mantida consistente em todo o sítio.
+  breve frase explicativa se necessário ("Comunhão das Assembleias de Deus
+  Mundial"). A sigla WAGF deve ser mantida consistente em todo o site.
 
 ---
 
@@ -734,7 +742,7 @@ preservar esses limiares intactos.
 
 - **Significado**: O organismo de supervisão dentro da WAGF que nomeia e
   supervisiona a liderança do Doxa.Life.
-- **Exemplo**: "Supervisionado pela Equipa de Liderança da Comissão de
+- **Exemplo**: "Supervisionado pela Equipe de Liderança da Comissão de
   Missões da WAGF" (Sobre Nós)
 - **Porque importa**: Um nome institucional próprio; não traduzir.
 
@@ -743,7 +751,7 @@ preservar esses limiares intactos.
 ### Sending Summit Declaration
 
 - **Significado**: A declaração fundadora assinada em Lake Geneva,
-  Minnesota, a 25 de Setembro de 2025, comprometendo as agências afiliadas
+  Minnesota, a 25 de setembro de 2025, comprometendo as agências afiliadas
   à WAGF com a parceria DOXA.
 - **Exemplo**: "SENDING SUMMIT DECLARATION" (cabeçalho da página Sobre Nós)
 - **Porque importa**: Um nome próprio de documento; manter tal qual ou
@@ -754,8 +762,8 @@ preservar esses limiares intactos.
 ### Parceria Voluntária, Global e Receptora
 
 - **Significado**: Como a DOXA se descreve a si própria — as agências
-  membros participam por escolha, abrange o mundo inteiro, e recebe/coordena
-  missionários em vez de os enviar directamente.
+  membros participam por escolha, abrange o mundo inteiro, e recebe e coordena
+  missionários em vez de os enviar diretamente.
 - **Exemplo**: "Formaremos uma Parceria Voluntária, Global e Receptora"
   (Sending Summit Declaration)
 - **Porque importa**: Cada qualificador ("voluntária", "global", "receptora")
@@ -769,7 +777,7 @@ preservar esses limiares intactos.
 - **Significado**: O resumo doutrinário das convicções da WAGF, listado
   em doxa.life/about/statement-of-faith.
 - **Porque importa**: Usar o termo eclesiástico estabelecido para "declaração
-  doutrinária" ou "confissão de fé" na língua de destino. Evitar palavras
+  doutrinária" ou "confissão de fé" na idioma de destino. Evitar palavras
   com conotação legal.
 
 ---
@@ -790,7 +798,7 @@ preservar esses limiares intactos.
 
 Estes termos aparecem especificamente na página da Declaração de Fé. São
 vocabulário doutrinário padrão. Os tradutores devem usar equivalentes
-cristãos estabelecidos na língua de destino em vez de inventar novas
+cristãos estabelecidos na idioma de destino em vez de inventar novas
 traduções.
 
 | Termo | Nota breve |
@@ -800,61 +808,61 @@ traduções.
 | **Justificação** | Ser declarado justo perante Deus pela fé em Cristo |
 | **Expiação** | A morte substitutiva de Cristo cobrindo o pecado da humanidade |
 | **Santificação** | Separação contínua do mal e dedicação a Deus |
-| **Baptismo em água** | Baptismo de crentes por imersão (Mateus 28:19; Actos 10:47–48) |
+| **Batismo em água** | Batismo de crentes por imersão (Mateus 28:19; Atos 10:47–48) |
 | **Ceia do Senhor / Comunhão** | A ordenança do pão e do cálice (Lucas 22:14–20) |
-| **Baptismo no Espírito Santo** | Uma experiência distinta de capacitação, evidenciada por falar em línguas |
-| **Falar em línguas** | A evidência inicial do baptismo no Espírito Santo |
+| **Batismo no Espírito Santo** | Uma experiência distinta de capacitação, evidenciada por falar em línguas |
+| **Falar em línguas** | A evidência inicial do batismo no Espírito Santo |
 | **Dons do Espírito Santo** | Dons sobrenaturais (1 Coríntios 12) |
-| **Retorno pré-milenial** | O retorno iminente, pessoal e corpóreo de Cristo antes do milénio |
+| **Retorno pré-milenar** | O retorno iminente, pessoal e corpóreo de Cristo antes do milênio |
 | **Ressurreição corporal** | Ressurreição física de toda a humanidade no fim dos tempos |
 
 ---
 
-## 9. Etiquetas de navegação e acção
+## 9. Etiquetas de navegação e ação
 
 Estes termos de nível de interface aparecem como títulos de páginas,
-etiquetas de botões e frases de apelo à acção. A consistência na tradução
+etiquetas de botões e frases de apelo à ação. A consistência na tradução
 é fundamental para a usabilidade.
 
 | Etiqueta | Contexto | Nota de tradução |
 |----------|---------|-----------------|
-| **Orar** | Navegação principal + título de página + passo de acção | Manter curto; modo imperativo |
-| **Adoptar** | Navegação principal + título de página | Ver entrada "Adoptar" — evitar linguagem de adopção de crianças |
-| **Envolver** | Apelo à acção da página inicial | Sentido activo/missionário; não "interagir" |
-| **Pesquisar** | Navegação principal | Ferramenta "Encontrar um UUPG" — usar palavra para "pesquisar/explorar" |
+| **Orar** | Navegação principal + título de página + passo de ação | Manter curto; modo imperativo |
+| **Adotar** | Navegação principal + título de página | Ver entrada "Adotar" — evitar linguagem de adoção de crianças |
+| **Engajar** | Apelo à ação da página inicial | Sentido ativo/missionário; não "interagir" |
+| **Pesquisar** | Navegação principal | Ferramenta "Encontrar um PNANE" — usar palavra para "pesquisar/explorar" |
 | **Sobre Nós** | Navegação principal | "Sobre nós" padrão — usar equivalente local natural |
 | **Recursos** | Submenu de Sobre Nós | Ferramentas/materiais ministeriais — não "recursos financeiros" |
 | **Definições** | Submenu de Sobre Nós | Página de glossário/definições |
 | **Visão** | Submenu de Sobre Nós | A página de visão |
 | **Declaração de Fé** | Submenu de Sobre Nós | Declaração doutrinária |
-| **Contacte-nos** | Navegação/rodapé | Etiqueta de contacto padrão |
-| **Escolhe um grupo de povos** | CTAs de Orar e Adoptar | Selecção intencional, não aleatória; enfatizar compromisso contínuo |
-| **Inscreva-se** | Passo 2 de Orar | Subscrever/registar para pontos de oração diários |
+| **Entre em contato** | Navegação/rodapé | Etiqueta de contato padrão |
+| **Escolhe um povo** | CTAs de Orar e Adotar | Seleção intencional, não aleatória; enfatizar compromisso contínuo |
+| **Inscreva-se** | Passo 2 de Orar | Assinar/registrar para pontos de oração diários |
 | **Guia de oração diário** | Página de Orar | O recurso devocional por e-mail |
-| **Cobertura de Oração de 24 Horas** | Orar e Adoptar | Ver entrada completa acima |
-| **Meta de Adopção / Estado Actual** | Estatísticas da página de Adoptar | Progresso em direcção à adopção de todos os 2 085 UUPGs |
-| **Como Funciona a Adopção** | Página de Adoptar | Cabeçalho de secção passo a passo |
-| **Porque importa a adopção** | Página de Adoptar | Cabeçalho de secção motivacional |
-| **Porque importa a oração** | Página de Orar | Cabeçalho de secção motivacional |
+| **Cobertura de Oração de 24 Horas** | Orar e Adotar | Ver entrada completa acima |
+| **Meta de Adoção / Estado Atual** | Estatísticas da página de Adotar | Progresso em direção à adoção de todos os 2 085 PNANEs |
+| **Como Funciona a Adoção** | Página de Adotar | Cabeçalho de seção passo a passo |
+| **Porque importa a adoção** | Página de Adotar | Cabeçalho de seção motivacional |
+| **Porque importa a oração** | Página de Orar | Cabeçalho de seção motivacional |
 
 ---
 
 ## Resumo: termos fundamentais confirmados
 
-Os onze termos fundamentais especificados pela equipa do projecto foram
-encontrados no conteúdo do sítio e estão incluídos acima com definições
-e exemplos específicos do sítio:
+Os onze termos fundamentais especificados pela equipe do projeto foram
+encontrados no conteúdo do site e estão incluídos acima com definições
+e exemplos específicos do site:
 
-| Termo fundamental | Secção acima |
+| Termo fundamental | Seção acima |
 |------------------|-------------|
-| Grupo de povos | §1 Terminologia de grupos de povos |
-| Sem alcance missionário (grupo de povos) | §1 Terminologia de grupos de povos |
-| Não alcançado (grupo de povos) | §1 Terminologia de grupos de povos |
-| Insuficientemente alcançado | §1 Terminologia de grupos de povos |
-| Povo de fronteira | §1 Terminologia de grupos de povos |
-| Adoptar (um grupo de povos) | §4 Adopção e mobilização |
-| Orar (por um grupo de povos) | §3 Oração e intercessão + §4 |
-| Movimentos de plantação de igrejas | §2 Linguagem de envolvimento e missão |
+| Povo | §1 Terminologia de povos |
+| Não engajado (povo) | §1 Terminologia de povos |
+| Não alcançado (povo) | §1 Terminologia de povos |
+| Sub-engajado | §1 Terminologia de povos |
+| Povo de fronteira | §1 Terminologia de povos |
+| Adotar (um povo) | §4 Adoção e mobilização |
+| Orar (por um povo) | §3 Oração e intercessão + §4 |
+| Movimentos de plantação de igrejas | §2 Linguagem de engajamento e missão |
 | Oração diária | §3 Oração e intercessão |
-| Envolvimento com o evangelho | §2 Linguagem de envolvimento e missão |
-| Acesso ao evangelho | §2 Linguagem de envolvimento e missão |
+| Engajamento do evangelho | §2 Linguagem de engajamento e missão |
+| Acesso ao evangelho | §2 Linguagem de engajamento e missão |

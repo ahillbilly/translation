@@ -1,7 +1,7 @@
 ---
 generated: 2026-02-26 16:15 UTC
 pages_crawled: 9
-method: AI analysis (Claude Sonnet 4.6 — full English page content)
+method: AI extraction updated with French review feedback
 language: fr_FR
 pages:
   - https://doxa.life/
@@ -14,22 +14,23 @@ pages:
   - https://doxa.life/contact-us/
   - https://doxa.life/about/statement-of-faith/
 purpose: >
-  Candidats au glossaire identifiés par analyse IA de l'ensemble des pages
-  en anglais du site Doxa.Life. Comprend les termes fondateurs spécifiés par
+  Glossaire français du Doxa.Life, développé à partir d'une extraction
+  initiale par IA du contenu anglais et mis à jour avec des retours de
+  relecture francophones. Comprend les termes fondateurs spécifiés par
   l'équipe du projet, ainsi que tout terme supplémentaire dont une mauvaise
   traduction pourrait compromettre le sens ministériel du site.
-  Réviser et promouvoir les entrées vers resources/doxa-glossary.md.
 note: >
-  Les termes sont regroupés par fonction, non par fréquence. Le label
-  "★ Terme fondateur" désigne les onze termes prioritaires spécifiés par
-  l'équipe du projet.
+  Ce fichier doit être traité comme un glossaire de travail révisé, et non
+  comme une liste brute de candidats. Les termes sont regroupés par fonction,
+  non par fréquence. Le label "★ Terme fondateur" désigne les onze termes
+  prioritaires spécifiés par l'équipe du projet.
 ---
 
-# Candidats au glossaire Doxa.Life — Analyse IA
+# Glossaire français du Doxa.Life — version de travail révisée
 
 ---
 
-## 1. Terminologie des groupes de peuples
+## 1. Terminologie des peuples
 
 Ce sont les termes les plus précis sur le plan définitionnel présents sur le
 site. La page **Définitions** fournit des seuils numériques exacts ; les
@@ -37,78 +38,82 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Groupe de peuples ★ Terme fondateur
+### Peuple ★ Terme fondateur
 
 - **Définition du site** : « Un groupe ethnolinguistique dont les membres
   se perçoivent comme ayant une affinité commune fondée sur la langue, la
   culture, la religion et la vision du monde … le plus grand groupe possible
-  au sein duquel l'Évangile peut se répandre sous la forme d'un mouvement de
-  plantation d'églises viable et indigène, sans rencontrer de barrières de
+  au sein duquel l'Évangile peut se répandre sous la forme d'un mouvement
+  d'implantation d'églises viable et autochtone, sans rencontrer de barrières de
   compréhension ou d'acceptation. » (Page Définitions)
-- **Exemple** : « 2 085 groupes de peuples sans engagement missionnaire »
+- **Exemple** : « 2 085 peuples non atteints et non engagés »
   (titre de la page d'accueil)
 - **Pourquoi c'est important** : C'est l'unité de mesure fondamentale de
   l'ensemble du site. Le concept est ethnique et linguistique, non politique —
-  « groupe de peuples » ne doit pas être rendu par « État-nation »,
-  « tribu » (avec des connotations primitives) ou « groupe social ». Une
-  traduction imprécise invalide chaque statistique du site.
+  « peuple » ne doit pas être rendu par « État-nation », « tribu » (avec des
+  connotations primitives) ou « groupe social ». « Groupe ethnolinguistique »
+  peut servir d'explication technique, mais « peuple » est le terme de travail
+  recommandé pour les libellés et les formulations principales.
 
 ---
 
-### Peuple non atteint (UPG) ★ Terme fondateur
+### Peuple non atteint ★ Terme fondateur
 
 - **Définition du site** : « Compte environ 2 disciples ou moins pour 100
-  personnes (≤ 2 %) et n'a pas la capacité d'établir des églises indigènes
-  sans aide interculturelle. » (Page Définitions)
+  personnes (≤ 2 %) et n'a pas la capacité d'établir des églises autochtones
+  sans aide transculturelle. » (Page Définitions)
 - **Exemple** : « Partenariat mondial pour les peuples non atteints »
   (slogan du site)
 - **Pourquoi c'est important** : Le seuil (≤ 2 %) doit être reproductible
   dans la traduction. La notion d'*incapacité* à se propager de façon autonome
   est aussi importante que le pourcentage. Éviter toute formulation qui
-  laisserait entendre que le groupe est spirituellement « non élu » ou
+  laisserait entendre que le peuple est spirituellement « non élu » ou
   socialement marginalisé.
 
 ---
 
-### Sans engagement missionnaire (groupe de peuples) ★ Terme fondateur
+### Peuple non engagé (sans engagement missionnaire actif) ★ Terme fondateur
 
-- **Définition du site** : Un groupe de peuples sans croyants connus, ou avec
+- **Définition du site** : Un peuple sans croyants connus, ou avec
   seulement quelques-uns, et dépourvu des quatre niveaux primaires d'engagement
-  effectif (effort apostolique en résidence ; engagement envers la culture
+  effectif (effort pionnier en résidence ; engagement envers la culture
   locale et la langue maternelle ; engagement ministériel à long terme ;
   semaille de l'Évangile visant un MPÉ). (Page Définitions)
-- **Exemple** : « 2 085 groupes de peuples sans engagement missionnaire » /
-  « Les groupes de peuples sans engagement missionnaire n'ont ni missionnaires,
-  ni églises, et souvent pas de croyants connus. » (Page Adopter)
-- **Pourquoi c'est important** : « Sans engagement missionnaire » est un terme
-  technique signifiant *qu'aucun travail actif de plantation d'églises n'est en
-  cours*, et non « socialement désengagé » ou « émotionnellement indifférent ».
-  Une mauvaise traduction occulte l'entière urgence de l'appel à l'action du
-  site.
+- **Exemple** : « 2 085 peuples non engagés » /
+  « Les peuples non engagés n'ont ni missionnaires,
+  ni églises, et souvent pas de croyants connus. » (Page Choisir)
+- **Pourquoi c'est important** : « Non engagé » est un terme technique. La
+  précision « sans engagement missionnaire actif » indique qu'aucun travail
+  d'implantation d'église actif n'est en cours ; il ne s'agit pas d'un peuple
+  socialement désengagé ou émotionnellement indifférent. Une mauvaise
+  traduction occulte l'entière urgence de l'appel à l'action du site.
+  « Négligé » ou « délaissé » peuvent être utiles comme explication pastorale,
+  mais ils ne doivent pas remplacer le terme technique principal.
 
 ---
 
-### Groupe de peuples non ciblé et non atteint (UUPG)
+### Peuple non atteint et non engagé (UUPG)
 
 - **Signification** : La catégorie combinée — non atteint ET dépourvu des
   quatre niveaux d'engagement effectif. La page Recherche utilise « Trouver un
-  UUPG » comme libellé d'interface.
-- **Exemple** : « Prière quotidienne pour chacun des 2 085 UUPG »
+  peuple non atteint et non engagé » comme libellé d'interface.
+- **Exemple** : « Prière quotidienne pour chacun des 2 085 peuples non
+  atteints et non engagés »
   (page Vision)
 - **Pourquoi c'est important** : UUPG est un acronyme établi dans les missions
-  mondiales. Conserver un acronyme équivalent stable (p. ex. « UUPG ») ou une
-  expression utilisée de manière cohérente dans chaque langue afin d'assurer
-  l'alignement avec les outils de prière internationaux.
+  mondiales. Il ne semble pas y avoir d'acronyme français largement standard ;
+  conserver l'acronyme anglais UUPG en note ou en contexte technique peut aider
+  à rester aligné avec les outils de prière internationaux.
 
 ---
 
-### Sous-engagé (groupe de peuples) ★ Terme fondateur
+### Peuple sous-engagé ★ Terme fondateur
 
 - **Définition du site** : « Compte environ 1 disciple ou moins pour 100
-  personnes (≤ 1 %). Des équipes supplémentaires de plantation d'églises sont
+  personnes (≤ 1 %). Des équipes supplémentaires d'implantation d'églises sont
   nécessaires pour accroître un engagement fructueux. » (Page Définitions)
-- **Exemple** : « Engagement fructueux parmi les peuples-frontières et les
-  sous-engagés » (page d'accueil)
+- **Exemple** : « Engagement fructueux parmi les peuples
+  « frontière » et les sous-engagés » (page d'accueil)
 - **Pourquoi c'est important** : La forme composée avec trait d'union apparaît
   de façon constante. Il faut exprimer que du travail a commencé mais est
   *insuffisant en envergure* — non que les personnes elles-mêmes soient
@@ -116,14 +121,15 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Peuple-frontière (groupe de peuples) ★ Terme fondateur
+### Peuple « frontière » ★ Terme fondateur
 
 - **Définition du site** : « Compte environ 1 disciple ou moins pour 1 000
   personnes (≤ 0,1 %) sans mouvement confirmé et soutenu vers Jésus. Souvent
-  isolé géographiquement avec peu ou pas d'accès à l'Évangile ; le travail
+  isolé géographiquement avec peu ou pas d'accès à l'Évangile ; le travail de
   pionnier doit généralement commencer auprès de non-croyants. »
   (Page Définitions)
-- **Exemple** : « Engagement fructueux parmi les peuples-frontières »
+- **Exemple** : « Engagement fructueux parmi les peuples
+  « frontière » »
   (objectif de la page d'accueil)
 - **Pourquoi c'est important** : « Frontière » (frontier) signale la pointe
   missiologique — le plus non atteint des non atteints. Éviter les connotations
@@ -135,8 +141,9 @@ traductions doivent reproduire ces seuils intégralement.
 ### Groupe ethnolinguistique
 
 - **Signification** : Le descripteur technique de ce qui constitue un groupe
-  de peuples (langue, culture, religion et vision du monde communs). Non
-  utilisé comme libellé autonome dans l'interface, mais intégré dans la
+  ethnolinguistique, ou un peuple au sens missiologique (langue, culture,
+  religion et vision du monde communs). Il n'est pas utilisé comme libellé
+  autonome dans l'interface, mais il est intégré dans la
   définition de la page Définitions.
 - **Pourquoi c'est important** : Les traducteurs doivent comprendre que c'est
   le concept sous-jacent afin de choisir des termes orientés vers l'ethnicité
@@ -148,17 +155,16 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Engagement / engagé (groupe de peuples)
+### Engagement / engagé (peuple)
 
 - **Définition du site** (page Vision — « Qu'est-ce que l'engagement ? ») :
   « Il existe une activité soutenue pour partager Christ et faire des disciples ;
   des efforts sont déployés pour établir des églises autonomes ; le travail se
   déroule de manière culturellement appropriée et localement pertinente. »
-  Pour le WAGF : des ouvriers interculturels résident sur place.
-- **Exemple** : « Engager chaque groupe de peuples sans engagement missionnaire
-  d'ici 2033 » (Priorité)
+  Pour le WAGF : des ouvriers transculturels résident sur place.
+- **Exemple** : « Engager chaque peuple non engagé d'ici 2033 » (Priorité)
 - **Pourquoi c'est important** : « Engagement » est un terme de précision —
-  en résidence, soutenu, interculturel, orienté MPÉ. Un rendu vague comme
+  sur le terrain, soutenu, transculturel, orienté MPÉ. Un rendu vague comme
   « implication » ou « contact » vide le sens essentiel du terme. L'ensemble
   de l'énoncé de priorité en dépend.
 
@@ -169,9 +175,8 @@ traductions doivent reproduire ces seuils intégralement.
 - **Signification** : Un engagement qui produit visiblement des disciples et
   des églises, et pas seulement de l'activité. Utilisé dans les objectifs de
   la page d'accueil et dans la déclaration de la page À propos.
-- **Exemple** : « Engagement fructueux, à long terme et en résidence auprès
-  des peuples sans engagement missionnaire du monde » (Sending Summit
-  Declaration)
+- **Exemple** : « Engagement fructueux, à long terme et sur le terrain auprès
+  des peuples non engagés du monde » (Sending Summit Declaration)
 - **Pourquoi c'est important** : Le qualificatif « fructueux » est
   théologiquement et stratégiquement intentionnel — il distingue l'activité
   des résultats.
@@ -180,13 +185,12 @@ traductions doivent reproduire ces seuils intégralement.
 
 ### Accès à l'Évangile ★ Terme fondateur
 
-- **Signification** : La condition d'un groupe de peuples ayant l'Évangile à
+- **Signification** : La condition d'un peuple ayant l'Évangile à
   sa disposition — par des ouvriers, des églises ou des contenus évangéliques.
-  Son *absence* est la tragédie définitoire des groupes de peuples sans
-  engagement missionnaire.
+  Son *absence* est la tragédie définitoire des peuples non engagés.
 - **Exemple** : « Ils n'ont aucun accès à l'Évangile » (titre de la page
-  Adopter) ; « Un engagement d'église pour prier, donner et envoyer afin que
-  l'accès à l'Évangile commence » (page Adopter)
+  Choisir) ; « Un engagement d'église pour prier, donner et envoyer afin que
+  l'accès à l'Évangile commence » (page Choisir)
 - **Pourquoi c'est important** : « Accès » implique disponibilité et
   accessibilité, et non simplement présence géographique. Traduire par
   « connaissance de l'Évangile » ou « audition de l'Évangile » changerait le
@@ -194,52 +198,52 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Engagement évangélique ★ Terme fondateur
+### Engagement pour l'Évangile ★ Terme fondateur
 
 - **Signification** : La proclamation active et continue de l'Évangile, et sa
-  mise en pratique au sein d'un groupe de peuples ; utilisé dans le contexte
-  de la prière (« préparer la voie à l'engagement évangélique par la prière »).
-- **Exemple** : « Aider à préparer la voie à l'engagement évangélique par la
+  mise en pratique au sein d'un peuple ; utilisé dans le contexte
+  de la prière (« préparer la voie à l'engagement pour l'Évangile par la prière »).
+- **Exemple** : « Aider à préparer la voie à l'engagement pour l'Évangile par la
   prière » (page Prier)
 - **Pourquoi c'est important** : Distinct de l'« accès à l'Évangile »
-  (disponibilité) — l'« engagement évangélique » est le travail missionnaire
+  (disponibilité) — l'« engagement pour l'Évangile » est le travail missionnaire
   actif lui-même. Éviter de le rendre comme une campagne de communication ou
   de marketing.
 
 ---
 
-### Mouvement de plantation d'églises (MPÉ) ★ Terme fondateur
+### Mouvement d'implantation d'églises (MPÉ) ★ Terme fondateur
 
-- **Définition du site** : « Une multiplication d'églises indigènes qui
+- **Définition du site** : « Une multiplication d'églises autochtones qui
   plantent des églises, comprenant au moins quatre flux de quatre générations
   spirituelles représentant ensemble plus de 1 000 personnes. »
   (Page Définitions)
-- **Exemple** : « Des mouvements de plantation d'églises parmi chaque peuple
+- **Exemple** : « Des mouvements d'implantation d'églises parmi chaque peuple
   non atteint sur la terre » (objectif de la page d'accueil)
 - **Pourquoi c'est important** : « Mouvement » implique un élan
-  auto-multiplicateur, et non une seule plantation d'église ou un programme.
+  auto-multiplicateur, et non une seule implantation d'église ou un programme.
   Les métriques (4 flux × 4 générations × 1 000 personnes) doivent être
   traduisibles ; éviter toute formulation qui évoquerait un mouvement social
   ou politique.
 
 ---
 
-### Église indigène
+### Église autochtone
 
-- **Signification** : Une église née au sein même du groupe de peuples, qui
-  est autonome et parvient à maturité selon les « cinq autonomies ».
-- **Exemple** : « Il existe une église indigène plantée parmi chaque groupe
-  de peuples sur la terre » (objectifs Vision) ; « n'a pas la capacité
-  d'établir des églises indigènes sans aide interculturelle » (Définitions)
-- **Pourquoi c'est important** : « Indigène » signifie enraciné localement et
+- **Signification** : Une église née au sein même du peuple, qui
+  est autonome et parvient à maturité selon les « cinq piliers ».
+- **Exemple** : « Il existe une église autochtone implantée parmi chaque peuple
+  sur la terre » (objectifs Vision) ; « n'a pas la capacité
+  d'établir des églises autochtones sans aide transculturelle » (Définitions)
+- **Pourquoi c'est important** : « Autochtone » signifie enraciné localement et
   auto-gouverné, et non « religion native » ou « animiste ». Clarifier si
   nécessaire pour éviter des associations avec le syncrétisme.
 
 ---
 
-### Les cinq « autonomies » (d'une église indigène)
+### Les cinq piliers (pour l'autonomie de l'église autochtone)
 
-- **Signification** : Les cinq marqueurs d'une église indigène parvenue à
+- **Signification** : Les cinq marqueurs d'une église autochtone parvenue à
   maturité : auto-propagatrice, auto-gouvernée, auto-financée,
   auto-théologisante, auto-missionnaire. (Page Définitions)
 - **Pourquoi c'est important** : Il s'agit d'un cadre de référence standard en
@@ -249,13 +253,13 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Engagement en résidence / ouvriers en résidence
+### Engagement sur le terrain / ouvriers résidents
 
-- **Signification** : Des ouvriers interculturels qui *vivent parmi* le groupe
-  de peuples (et non à distance ou en visite ponctuelle). Une exigence de la
+- **Signification** : Des ouvriers transculturels qui *vivent parmi* le peuple
+  (et non à distance ou en visite ponctuelle). Une exigence de la
   définition de l'engagement selon le WAGF.
-- **Exemple** : « Des ouvriers interculturels sont en résidence »
-  (page Vision) ; « Effort apostolique (pionnier) en résidence »
+- **Exemple** : « Des ouvriers transculturels sont résidents »
+  (page Vision) ; « Effort pionnier en résidence »
   (page Définitions)
 - **Pourquoi c'est important** : « En résidence » par opposition à
   « non-résident » est une distinction clé sur le site. Les traductions ne
@@ -264,25 +268,25 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Ouvriers interculturels
+### Ouvriers transculturels
 
 - **Signification** : Des ouvriers missionnaires d'une culture différente qui
-  servent parmi un groupe de peuples. Utilisé comme terme préféré à
+  servent parmi un peuple. Utilisé comme terme préféré à
   « missionnaire » dans certains contextes.
-- **Exemple** : « n'a pas la capacité d'établir des églises indigènes sans
-  aide interculturelle » (Définitions)
-- **Pourquoi c'est important** : Le qualificatif « interculturel » est
-  intentionnel — ces ouvriers ne proviennent pas du groupe lui-même. Utiliser
+- **Exemple** : « n'a pas la capacité d'établir des églises autochtones sans
+  aide transculturelle » (Définitions)
+- **Pourquoi c'est important** : Le qualificatif « transculturel » est
+  intentionnel — ces ouvriers ne proviennent pas du peuple lui-même. Utiliser
   un terme qui exprime la différence culturelle, et non simplement « étranger ».
 
 ---
 
-### Effort apostolique (pionnier)
+### Effort pionnier
 
 - **Signification** : Un travail missionnaire d'avant-garde qui commence là où
   il n'y a pas encore d'églises ni de croyants. L'un des quatre critères pour
-  qu'un groupe de peuples soit considéré comme « engagé ».
-- **Exemple** : « Effort apostolique (pionnier) en résidence »
+  qu'un peuple soit considéré comme « engagé ».
+- **Exemple** : « Effort pionnier en résidence »
   (page Définitions)
 - **Pourquoi c'est important** : « Apostolique » signifie ici envoyé/pionnier,
   et non un titre dénominationnel. La parenthèse « (pionnier) » l'indique ;
@@ -290,23 +294,23 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Travail pionnier
+### Travail de pionnier
 
 - **Signification** : La phase initiale d'évangélisation au sein d'un
-  peuple-frontière où il n'existe encore aucun croyant.
-- **Exemple** : « Le travail pionnier doit généralement commencer auprès de
+  peuple « frontière » où il n'existe encore aucun croyant.
+- **Exemple** : « Le travail de pionnier doit généralement commencer auprès de
   non-croyants » (page Définitions)
 - **Pourquoi c'est important** : Les traducteurs doivent transmettre l'idée de
   « repartir de zéro » en matière de présence évangélique.
 
 ---
 
-### Langue maternelle / langue du cœur
+### La langue du cœur
 
 - **Signification** : La première langue d'une personne — celle dans laquelle
   elle pense et ressent le plus profondément.
 - **Exemple** : « Engagement à travailler dans la culture locale et la langue
-  maternelle » (page Définitions)
+  du cœur » (page Définitions)
 - **Pourquoi c'est important** : Expression bien établie en missiologie.
   Distinguer de la « langue officielle » ou de la « langue véhiculaire ».
   L'idée est que le travail évangélique et de discipulat doit se faire dans
@@ -317,23 +321,23 @@ traductions doivent reproduire ces seuils intégralement.
 ### Mouvement vers Jésus
 
 - **Signification** : Un mouvement collectif et multiplicateur au sein duquel
-  des membres d'un groupe se tournent pour suivre Jésus — par opposition à des
+  des membres d'un peuple se tournent pour suivre Jésus — par opposition à des
   conversions isolées.
 - **Exemple** : « Aucun mouvement confirmé et soutenu vers Jésus » (définition
-  d'un peuple-frontière)
+  d'un peuple « frontière »)
 - **Pourquoi c'est important** : Il s'agit spécifiquement d'un mouvement
   spirituel *soutenu et multiplicateur*, et non d'une conversion individuelle
   ou d'un activisme social.
 
 ---
 
-### Partenaires non-résidents
+### Partenaires extérieurs
 
 - **Signification** : Églises, agences ou individus qui soutiennent
   l'engagement depuis l'extérieur du terrain — par la prière, les dons, la
   traduction biblique, les médias, etc.
 - **Exemple** : « L'engagement élargi comprend d'importantes composantes
-  contributives que les partenaires non-résidents peuvent accomplir, notamment
+  contributives que les partenaires extérieurs peuvent accomplir, notamment
   la prière d'intercession, la traduction biblique, les sorties de
   compassion/secours aux sinistrés… » (page Définitions)
 - **Pourquoi c'est important** : Aide les gens à comprendre qu'ils peuvent
@@ -341,16 +345,16 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Engagement élargi (composantes)
+### Composantes d'un engagement élargi
 
 - **Signification** : Les éléments contribuant à la mission (sans être
-  suffisants seuls) que les partenaires non-résidents peuvent accomplir :
+  suffisants seuls) que les partenaires extérieurs peuvent accomplir :
   prière d'intercession, traduction biblique, ministère de compassion/secours
   aux sinistrés, couverture médiatique, efforts de mobilisation, formation en
   leadership, travail auprès de la diaspora.
 - **Exemple** : « L'engagement élargi comprend d'importantes composantes
   contributives » (page Définitions)
-- **Pourquoi c'est important** : Cette liste précise que l'adoption et la
+- **Pourquoi c'est important** : Cette liste précise que le choix d'un peuple et la
   prière constituent une véritable participation à la mission, même sans
   déplacement sur le terrain.
 
@@ -358,12 +362,12 @@ traductions doivent reproduire ces seuils intégralement.
 
 ### Diaspora
 
-- **Signification** : Membres d'un groupe de peuples vivant hors de leur terre
+- **Signification** : Membres d'un peuple vivant hors de leur terre
   d'origine. Mentionnée comme composante de l'engagement élargi.
 - **Exemple** : « Travail auprès de la diaspora » (page Définitions)
 - **Pourquoi c'est important** : Terme souvent emprunté dans de nombreuses
   langues ; il peut être conservé tel quel. Préciser qu'il désigne les
-  *communautés dispersées* d'un groupe de peuples, et non les réfugiés en
+  *communautés dispersées* d'un peuple, et non les réfugiés en
   général.
 
 ---
@@ -372,25 +376,27 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Prière quotidienne (pour un groupe de peuples) ★ Terme fondateur
+### Prière quotidienne (pour un peuple) ★ Terme fondateur
 
-- **Signification** : S'engager à prier pour un groupe de peuples sans
-  engagement missionnaire spécifique chaque jour, généralement en utilisant le
+- **Signification** : S'engager à prier pour un peuple non engagé spécifique
+  chaque jour, généralement en utilisant le
   guide de prière quotidien de Doxa.Life.
-- **Exemple** : « Choisissez un groupe de peuples sans engagement missionnaire
-  pour lequel vous vous engagerez à prier chaque jour. » (Page Prier)
+- **Exemple** : « Choisissez un peuple non engagé pour lequel vous vous
+  engagerez à prier chaque jour. » (Page Prier)
 - **Pourquoi c'est important** : « Quotidien » est intentionnel et fait partie
   du calcul de couverture sur 24 heures. Éviter de rendre par « prière
   régulière » ou « prière occasionnelle ».
 
 ---
 
-### Couverture de prière 24 heures sur 24
+### Couverture de prière 24h/24
 
 - **Signification** : L'objectif d'avoir au moins 144 intercesseurs priant
-  chacun 10 minutes par jour pour un UUPG spécifique, ce qui représente
+  chacun 10 minutes par jour pour un peuple non atteint et non engagé
+  spécifique, ce qui représente
   collectivement 24 heures de prière quotidienne.
-- **Exemple** : « Au moins 144 intercesseurs priant pour chaque UUPG
+- **Exemple** : « Au moins 144 intercesseurs priant pour chaque peuple non
+  atteint et non engagé
   10 minutes par jour (ce qui équivaut à une couverture de prière de
   24 heures) » (page Vision)
 - **Pourquoi c'est important** : La logique mathématique doit être traduisible.
@@ -401,10 +407,11 @@ traductions doivent reproduire ces seuils intégralement.
 
 ### Intercesseur / intercesseurs
 
-- **Signification** : Une personne qui s'engage à prier pour un UUPG. Objectif :
-  144+ par UUPG (pour une couverture de 24 heures), puis 1 000+ par UUPG.
+- **Signification** : Une personne qui s'engage à prier pour un peuple non
+  atteint et non engagé. Objectif : 144+ par peuple (pour
+  une couverture de 24 heures), puis 1 000+ par peuple.
 - **Exemple** : « Susciter 144+ intercesseurs quotidiens pour prier 10 minutes
-  par jour. » (Page Adopter)
+  par jour. » (Page Choisir)
 - **Pourquoi c'est important** : Utiliser le terme établi dans l'Église pour
   intercesseur / guerrier de la prière, et non une connotation judiciaire ou
   gouvernementale.
@@ -414,7 +421,7 @@ traductions doivent reproduire ces seuils intégralement.
 ### Prière d'intercession
 
 - **Signification** : Prière offerte au nom d'autrui — spécifiquement pour des
-  groupes de peuples pour lesquels personne ne prie.
+  peuples pour lesquels personne ne prie.
 - **Exemple** : « L'engagement élargi comprend… la prière d'intercession »
   (Définitions)
 - **Pourquoi c'est important** : Distinguer de la prière dévotionnelle
@@ -427,19 +434,19 @@ traductions doivent reproduire ces seuils intégralement.
 - **Signification** : Le courriel ou la ressource de contenu quotidien que
   Doxa.Life envoie aux intercesseurs inscrits — comprenant des thèmes de prière
   bibliques, des besoins de prière du terrain, des photos, des témoignages et
-  des aperçus clés sur le groupe de peuples.
+  des aperçus clés sur le peuple.
 - **Exemple** : « Recevez des points de prière quotidiens et rejoignez des
   croyants du monde entier en prière » (page d'accueil) ; « Votre guide de
   prière quotidien : thèmes de prière centrés sur l'Écriture, réflexion et
   guidance menées par l'Esprit, vrais besoins de prière du terrain, photos,
-  histoires et témoignages, aperçus clés sur le groupe de peuples » (Prier)
+  histoires et témoignages, aperçus clés sur le peuple » (Prier)
 - **Pourquoi c'est important** : Le « guide » et les « points » se distinguent
-  des dévotionnels généraux — ils sont spécifiques, centrés sur un groupe de
-  peuples, reliés au terrain.
+  des dévotionnels généraux — ils sont spécifiques, centrés sur un peuple,
+  reliés au terrain.
 
 ---
 
-### La prière prépare la voie
+### La prière prépare le chemin
 
 - **Signification** : Une conviction théologique selon laquelle l'intercession
   crée des conditions spirituelles pour des percées évangéliques avant même
@@ -453,13 +460,13 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Le Seigneur de la moisson
+### Le Maître de la moisson
 
 - **Signification** : Un titre biblique pour Jésus (Matthieu 9:38), utilisé
-  dans l'appel à prier afin qu'Il envoie des ouvriers parmi les peuples sans
-  engagement missionnaire.
-- **Exemple** : « Priez avec ferveur le Seigneur de la moisson … qu'Il envoie
-  des ouvriers parmi [les sans engagement missionnaire]. » (Page Prier)
+  dans l'appel à prier afin qu'Il envoie des ouvriers parmi les peuples non
+  engagés.
+- **Exemple** : « Priez avec ferveur le Maître de la moisson … qu'Il envoie
+  des ouvriers parmi [les peuples non engagés]. » (Page Prier)
 - **Pourquoi c'est important** : S'aligner sur l'expression de la traduction
   biblique établie dans la langue cible. La métaphore agricole (moisson =
   personnes prêtes à répondre) doit être préservée.
@@ -470,17 +477,17 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Adopter (un groupe de peuples sans engagement missionnaire) ★ Terme fondateur
+### Choisir (un peuple non engagé) ★ Terme fondateur
 
 - **Signification** : Un engagement formel et à long terme, mené par une
   église locale, de prier, donner et envoyer afin que l'accès à l'Évangile commence
-  pour un groupe de peuples sans engagement missionnaire spécifique.
+  pour un peuple non engagé spécifique.
 - **Exemple** : « Un engagement d'église locale pour prier, donner et envoyer afin
-  que l'accès à l'Évangile commence » (page Adopter)
+  que l'accès à l'Évangile commence » (page Choisir)
 - **Pourquoi c'est important** : Éviter le langage de l'adoption familiale ou
   juridique (enfants, garde légale). Le concept est celui d'un *parrainage
   missionnaire / engagement stratégique* — une église locale prend la responsabilité
-  stratégique de l'engagement d'un groupe de peuples. Utiliser « église locale »
+  stratégique de l'engagement d'un peuple. Utiliser « église locale »
   ou « assemblée locale » plutôt que simplement « église », ce dernier pouvant
   désigner une dénomination plutôt qu'une congrégation locale.
 
@@ -488,11 +495,11 @@ traductions doivent reproduire ces seuils intégralement.
 
 ### Prier, donner et envoyer
 
-- **Signification** : Les trois piliers de l'adoption — la prière
+- **Signification** : Les trois piliers du choix d'un peuple — la prière
   d'intercession, le soutien financier et l'envoi d'ouvriers.
 - **Exemple** : « Les églises et réseaux prennent en charge — en priant,
-  donnant et préparant la voie aux ouvriers de l'Évangile. » (Page d'accueil) ;
-  « S'engager par la prière, le don et l'envoi » (page Adopter)
+  donnant et préparant le chemin aux ouvriers de l'Évangile. » (Page d'accueil) ;
+  « S'engager par la prière, le don et l'envoi » (page Choisir)
 - **Pourquoi c'est important** : Cette triade est utilisée de façon constante.
   Les trois actions doivent être traduites par des verbes actifs et
   participatifs, et non passifs ou dévotionnels.
@@ -505,19 +512,19 @@ traductions doivent reproduire ces seuils intégralement.
   au sein d'une congrégation ou d'un réseau.
 - **Exemple** : « Susciter 144+ intercesseurs quotidiens » / « Outils pour
   mobiliser la prière et la participation dans votre congrégation »
-  (page Adopter)
+  (page Choisir)
 - **Pourquoi c'est important** : « Mobiliser » implique un mouvement actif vers
   un objectif. Éviter des termes passifs comme « informer » ou « inviter ».
 
 ---
 
-### Agence d'envoi / agences d'envoi
+### Agences missionnaires
 
 - **Signification** : Organisations habilitées à recruter, former, soutenir et
-  envoyer des missionnaires. DOXA travaille avec ces agences mais ne les
-  remplace pas.
+  envoyer des missionnaires. DOXA travaille avec ces agences missionnaires mais
+  ne les remplace pas.
 - **Exemple** : « Chaque département missionnaire affilié au World Assemblies
-  of God Fellowship (129 agences d'envoi différentes au 1er janvier 2026) est
+  of God Fellowship (129 agences missionnaires différentes au 1er janvier 2026) est
   automatiquement un partenaire DOXA. » (Page À propos)
 - **Pourquoi c'est important** : Terme technique dans les structures
   missionnaires. Les traducteurs doivent utiliser l'équivalent local établi
@@ -527,8 +534,8 @@ traductions doivent reproduire ces seuils intégralement.
 
 ### Notre offrande à Jésus
 
-- **Signification** : La métaphore cadre de la mission — engager chaque groupe
-  de peuples est l'offrande collective d'adoration de l'Église à Jésus.
+- **Signification** : La métaphore cadre de la mission — engager chaque peuple
+  est l'offrande collective d'adoration de l'Église à Jésus.
 - **Exemple** : « Notre offrande à Jésus : engager chaque peuple d'ici 2033 »
   (page d'accueil)
 - **Pourquoi c'est important** : Un cadre motivationnel et adorateur. Doit
@@ -540,12 +547,11 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Priorité — « Engager chaque groupe de peuples sans engagement missionnaire d'ici 2033 »
+### Priorité — « Engager chaque peuple non engagé d'ici 2033 »
 
 - **Signification** : L'objectif stratégique mesurable et délimité dans le
   temps de Doxa.Life.
-- **Exemple** : « Engager chaque groupe de peuples sans engagement missionnaire
-  d'ici 2033 » (page Vision)
+- **Exemple** : « Engager chaque peuple non engagé d'ici 2033 » (page Vision)
 - **Pourquoi c'est important** : « Priorité » signale que c'est *l'objectif
   stratégique le plus important*, et non l'un parmi plusieurs. L'échéance de
   2033 doit être conservée exactement.
@@ -562,12 +568,12 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### De toute tribu, langue, peuple et nation
+### Toute tribu, toute langue, tout peuple et toute nation
 
 - **Signification** : La vision biblique tirée de l'Apocalypse 7:9 — le tableau
   de l'adoration ultime qui motive la mission.
-- **Exemple** : « Jésus est digne de recevoir la gloire de toute tribu, langue,
-  peuple et nation. » (Page À propos — Sending Summit Declaration)
+- **Exemple** : « Jésus est digne de recevoir la gloire de toute tribu, toute
+  langue, tout peuple et toute nation. » (Page À propos — Sending Summit Declaration)
 - **Pourquoi c'est important** : S'aligner sur la traduction biblique établie
   dans la langue cible. Les quatre substantifs sont théologiquement
   intentionnels — tribu (clan/famille), langue (idiome), peuple (groupe
@@ -576,11 +582,11 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Une multitude de tout peuple autour du trône
+### Une multitude de chaque peuple autour du trône
 
 - **Signification** : La scène d'adoration eschatologique de l'Apocalypse
   7:9 ; l'objectif ultime qui motive tout engagement.
-- **Exemple** : « Un jour, il y aura une multitude de tout peuple autour du
+- **Exemple** : « Un jour, il y aura une multitude de chaque peuple autour du
   trône, adorant Dieu. » (Page À propos)
 - **Pourquoi c'est important** : S'aligner sur la formulation de la traduction
   biblique locale. Doit évoquer l'adoration et l'ultime, et non simplement
@@ -588,11 +594,11 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Missionnaires du partenariat DOXA
+### Missionnaires en partenariat DOXA
 
 - **Signification** : Des missionnaires qui servent au sein du réseau de
-  partenariat Doxa.Life, coordonnés par les agences d'envoi.
-- **Exemple** : « Mobilisation de plus de 20 000 missionnaires du partenariat
+  partenariat Doxa.Life, coordonnés par les agences missionnaires.
+- **Exemple** : « Mobilisation de plus de 20 000 missionnaires en partenariat
   DOXA » (objectif de la page d'accueil)
 - **Pourquoi c'est important** : « Partenariat » signale que ces missionnaires
   ne sont pas des employés de DOXA, mais des ouvriers d'agences membres qui
@@ -611,7 +617,7 @@ traductions doivent reproduire ces seuils intégralement.
   d'engagement (p. ex. « 2 disciples ou moins pour 100 »).
 - **Exemple** : « Une église est composée de disciples baptisés réunis par le
   Saint-Esprit » (Définitions) ; « 2 disciples ou moins pour 100 »
-  (définition UPG)
+  (définition d'un peuple non atteint)
 - **Pourquoi c'est important** : Utiliser le terme chrétien établi pour
   disciple, et non « étudiant », « suiveur » (générique) ou « converti ».
   L'usage numérique comme métrique doit rester lié à ce sens théologique.
@@ -644,7 +650,7 @@ traductions doivent reproduire ces seuils intégralement.
 
 ### Culturellement approprié et localement pertinent
 
-- **Signification** : L'un des trois critères pour qu'un groupe de peuples soit
+- **Signification** : L'un des trois critères pour qu'un peuple soit
   considéré comme « engagé » — que le travail évangélique s'adapte à la culture
   et à la langue du peuple.
 - **Exemple** : « Le travail se déroule de manière culturellement appropriée et
@@ -667,7 +673,7 @@ traductions doivent reproduire ces seuils intégralement.
 
 ### Générations spirituelles (d'églises)
 
-- **Signification** : Le nombre de « générations » de plantation d'églises
+- **Signification** : Le nombre de « générations » d'implantation d'églises
   qu'un MPÉ a produites (A plante B, B plante C, C plante D = 4 générations).
 - **Exemple** : « quatre flux de quatre générations spirituelles »
   (page Définitions)
@@ -716,7 +722,7 @@ traductions doivent reproduire ces seuils intégralement.
 - **Exemple** : « S'engager au-delà des frontières (2 Corinthiens 10:16) »
   (page Vision)
 - **Pourquoi c'est important** : « Au-delà » signale les zones frontières et
-  pionnières. Relier au concept de peuple-frontière.
+  pionnières. Relier au concept de peuple « frontière ».
 
 ---
 
@@ -739,7 +745,7 @@ traductions doivent reproduire ces seuils intégralement.
 ### World Assemblies of God Fellowship (WAGF)
 
 - **Signification** : La fraternité mondiale qui a fondé et administre
-  Doxa.Life. Comprend 129 agences d'envoi affiliées (au 1er janvier 2026).
+  Doxa.Life. Comprend 129 agences missionnaires affiliées (au 1er janvier 2026).
 - **Exemple** : « DOXA a été fondé et est administré par le World Assemblies
   of God Fellowship (WAGF) » (page À propos)
 - **Pourquoi c'est important** : Nom propre — ne pas traduire. Ajouter une
@@ -779,7 +785,7 @@ traductions doivent reproduire ces seuils intégralement.
 - **Pourquoi c'est important** : Chaque qualificatif (« volontaire »,
   « mondial », « récepteur ») est théologiquement et structurellement
   intentionnel. « Récepteur » distingue spécifiquement ce partenariat d'une
-  agence d'envoi.
+  agence missionnaire.
 
 ---
 
@@ -839,22 +845,22 @@ essentielle pour l'utilisabilité.
 | Libellé | Contexte | Note de traduction |
 |---------|---------|-------------------|
 | **Prier** | Navigation principale + titre de page + étape d'action | Rester court ; mode impératif |
-| **Adopter** | Navigation principale + titre de page | Voir l'entrée « Adopter » ci-dessus — éviter le langage de l'adoption d'enfant |
+| **Choisir** | Navigation principale + titre de page | Voir l'entrée « Choisir » ci-dessus — éviter le langage de l'adoption d'enfant |
 | **S'engager** | Appel à l'action de la page d'accueil | Sens actif/missionnaire ; pas « interagir » |
-| **Rechercher** | Navigation principale | Outil « Trouver un UUPG » — utiliser le mot pour « chercher/explorer » |
+| **Rechercher** | Navigation principale | Outil « Trouver un peuple non atteint et non engagé » — utiliser le mot pour « chercher/explorer » |
 | **À propos** | Navigation principale | Standard « à propos de nous » — utiliser l'équivalent local naturel |
 | **Ressources** | Sous-menu À propos | Outils/matériaux ministériels — pas « ressources financières » |
 | **Définitions** | Sous-menu À propos | Page glossaire/définitions |
 | **Vision** | Sous-menu À propos | La page de vision |
 | **Déclaration de foi** | Sous-menu À propos | Déclaration doctrinale |
 | **Nous contacter** | Navigation/pied de page | Libellé de contact standard |
-| **Choisir un groupe de peuples** | Appels à l'action Prier + Adopter | Sélection intentionnelle, non aléatoire ; souligner l'engagement continu |
+| **Choisir un peuple** | Appels à l'action Prier + Choisir | Sélection intentionnelle, non aléatoire ; souligner l'engagement continu |
 | **S'inscrire** | Étape 2 de Prier | S'abonner/s'inscrire pour les points de prière quotidiens |
 | **Guide de prière quotidien** | Page Prier | La ressource dévotionnelle par courriel |
-| **Couverture de prière 24 heures sur 24** | Prier + Adopter | Voir l'entrée complète ci-dessus |
-| **Objectif d'adoption / Statut actuel** | Statistiques de la page Adopter | Progression vers l'adoption des 2 085 UUPG |
-| **Comment fonctionne l'adoption** | Page Adopter | En-tête de section étape par étape |
-| **Pourquoi l'adoption est importante** | Page Adopter | En-tête de section motivationnel |
+| **Couverture de prière 24h/24** | Prier + Choisir | Voir l'entrée complète ci-dessus |
+| **Objectif de choix / Statut actuel** | Statistiques de la page Choisir | Progression vers le choix des 2 085 peuples non atteints et non engagés |
+| **Comment fonctionne le choix** | Page Choisir | En-tête de section étape par étape |
+| **Pourquoi le choix est important** | Page Choisir | En-tête de section motivationnel |
 | **Pourquoi la prière est importante** | Page Prier | En-tête de section motivationnel |
 
 ---
@@ -867,14 +873,14 @@ et exemples spécifiques au site :
 
 | Terme fondateur | Section ci-dessus |
 |----------------|------------------|
-| Groupe de peuples | §1 Terminologie des groupes de peuples |
-| Sans engagement missionnaire (groupe de peuples) | §1 Terminologie des groupes de peuples |
-| Non atteint (groupe de peuples) | §1 Terminologie des groupes de peuples |
-| Sous-engagé | §1 Terminologie des groupes de peuples |
-| Peuple-frontière | §1 Terminologie des groupes de peuples |
-| Adopter (un groupe de peuples) | §4 Adoption et mobilisation |
-| Prier (pour un groupe de peuples) | §3 Prière et intercession + §4 |
-| Mouvements de plantation d'églises | §2 Langage de l'engagement et de la mission |
+| Peuple | §1 Terminologie des peuples |
+| Peuple non engagé (sans engagement missionnaire actif) | §1 Terminologie des peuples |
+| Peuple non atteint | §1 Terminologie des peuples |
+| Peuple sous-engagé | §1 Terminologie des peuples |
+| Peuple « frontière » | §1 Terminologie des peuples |
+| Choisir (un peuple) | §4 Adoption et mobilisation |
+| Prier (pour un peuple) | §3 Prière et intercession + §4 |
+| Mouvements d'implantation d'églises | §2 Langage de l'engagement et de la mission |
 | Prière quotidienne | §3 Prière et intercession |
-| Engagement évangélique | §2 Langage de l'engagement et de la mission |
+| Engagement pour l'Évangile | §2 Langage de l'engagement et de la mission |
 | Accès à l'Évangile | §2 Langage de l'engagement et de la mission |
