@@ -77,11 +77,11 @@ traductions doivent reproduire ces seuils intégralement.
 - **Définition du site** : Un peuple sans croyants connus, ou avec
   seulement quelques-uns, et dépourvu des quatre niveaux primaires d'engagement
   effectif (effort pionnier en résidence ; engagement envers la culture
-  locale et la langue maternelle ; engagement ministériel à long terme ;
+  locale et la langue du cœur ; engagement ministériel à long terme ;
   semaille de l'Évangile visant un MPÉ). (Page Définitions)
 - **Exemple** : « 2 085 peuples non engagés » /
   « Les peuples non engagés n'ont ni missionnaires,
-  ni églises, et souvent pas de croyants connus. » (Page Choisir)
+  ni églises, et souvent pas de croyants connus. » (Page Adopter)
 - **Pourquoi c'est important** : « Non engagé » est un terme technique. La
   précision « sans engagement missionnaire actif » indique qu'aucun travail
   d'implantation d'église actif n'est en cours ; il ne s'agit pas d'un peuple
@@ -166,7 +166,9 @@ traductions doivent reproduire ces seuils intégralement.
 - **Pourquoi c'est important** : « Engagement » est un terme de précision —
   sur le terrain, soutenu, transculturel, orienté MPÉ. Un rendu vague comme
   « implication » ou « contact » vide le sens essentiel du terme. L'ensemble
-  de l'énoncé de priorité en dépend.
+  de l'énoncé de priorité en dépend. Pour le verbe, préférer « s'engager
+  auprès d'un peuple » à « engager un peuple » (qui évoque une embauche)
+  lorsque la tournure le permet.
 
 ---
 
@@ -189,8 +191,8 @@ traductions doivent reproduire ces seuils intégralement.
   sa disposition — par des ouvriers, des églises ou des contenus évangéliques.
   Son *absence* est la tragédie définitoire des peuples non engagés.
 - **Exemple** : « Ils n'ont aucun accès à l'Évangile » (titre de la page
-  Choisir) ; « Un engagement d'église pour prier, donner et envoyer afin que
-  l'accès à l'Évangile commence » (page Choisir)
+  Adopter) ; « Un engagement d'église pour prier, donner et envoyer afin que
+  l'accès à l'Évangile commence » (page Adopter)
 - **Pourquoi c'est important** : « Accès » implique disponibilité et
   accessibilité, et non simplement présence géographique. Traduire par
   « connaissance de l'Évangile » ou « audition de l'Évangile » changerait le
@@ -215,7 +217,7 @@ traductions doivent reproduire ces seuils intégralement.
 ### Mouvement d'implantation d'églises (MPÉ) ★ Terme fondateur
 
 - **Définition du site** : « Une multiplication d'églises autochtones qui
-  plantent des églises, comprenant au moins quatre flux de quatre générations
+  implantent des églises, comprenant au moins quatre flux de quatre générations
   spirituelles représentant ensemble plus de 1 000 personnes. »
   (Page Définitions)
 - **Exemple** : « Des mouvements d'implantation d'églises parmi chaque peuple
@@ -354,7 +356,7 @@ traductions doivent reproduire ces seuils intégralement.
   leadership, travail auprès de la diaspora.
 - **Exemple** : « L'engagement élargi comprend d'importantes composantes
   contributives » (page Définitions)
-- **Pourquoi c'est important** : Cette liste précise que le choix d'un peuple et la
+- **Pourquoi c'est important** : Cette liste précise que l'adoption d'un peuple et la
   prière constituent une véritable participation à la mission, même sans
   déplacement sur le terrain.
 
@@ -411,7 +413,7 @@ traductions doivent reproduire ces seuils intégralement.
   atteint et non engagé. Objectif : 144+ par peuple (pour
   une couverture de 24 heures), puis 1 000+ par peuple.
 - **Exemple** : « Susciter 144+ intercesseurs quotidiens pour prier 10 minutes
-  par jour. » (Page Choisir)
+  par jour. » (Page Adopter)
 - **Pourquoi c'est important** : Utiliser le terme établi dans l'Église pour
   intercesseur / guerrier de la prière, et non une connotation judiciaire ou
   gouvernementale.
@@ -477,29 +479,31 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Choisir (un peuple non engagé) ★ Terme fondateur
+### Adopter (un peuple non engagé) ★ Terme fondateur
 
 - **Signification** : Un engagement formel et à long terme, mené par une
   église locale, de prier, donner et envoyer afin que l'accès à l'Évangile commence
   pour un peuple non engagé spécifique.
 - **Exemple** : « Un engagement d'église locale pour prier, donner et envoyer afin
-  que l'accès à l'Évangile commence » (page Choisir)
+  que l'accès à l'Évangile commence » (page Adopter)
 - **Pourquoi c'est important** : Éviter le langage de l'adoption familiale ou
   juridique (enfants, garde légale). Le concept est celui d'un *parrainage
   missionnaire / engagement stratégique* — une église locale prend la responsabilité
   stratégique de l'engagement d'un peuple. Utiliser « église locale »
   ou « assemblée locale » plutôt que simplement « église », ce dernier pouvant
-  désigner une dénomination plutôt qu'une congrégation locale.
+  désigner une dénomination plutôt qu'une congrégation locale. « Adopter un
+  peuple » est un usage établi dans les milieux missionnaires francophones
+  (p. ex. l'initiative « Adopte un peuple » de Génération Propulsion).
 
 ---
 
 ### Prier, donner et envoyer
 
-- **Signification** : Les trois piliers du choix d'un peuple — la prière
+- **Signification** : Les trois piliers de l'adoption — la prière
   d'intercession, le soutien financier et l'envoi d'ouvriers.
 - **Exemple** : « Les églises et réseaux prennent en charge — en priant,
   donnant et préparant le chemin aux ouvriers de l'Évangile. » (Page d'accueil) ;
-  « S'engager par la prière, le don et l'envoi » (page Choisir)
+  « S'engager par la prière, le don et l'envoi » (page Adopter)
 - **Pourquoi c'est important** : Cette triade est utilisée de façon constante.
   Les trois actions doivent être traduites par des verbes actifs et
   participatifs, et non passifs ou dévotionnels.
@@ -512,7 +516,7 @@ traductions doivent reproduire ces seuils intégralement.
   au sein d'une congrégation ou d'un réseau.
 - **Exemple** : « Susciter 144+ intercesseurs quotidiens » / « Outils pour
   mobiliser la prière et la participation dans votre congrégation »
-  (page Choisir)
+  (page Adopter)
 - **Pourquoi c'est important** : « Mobiliser » implique un mouvement actif vers
   un objectif. Éviter des termes passifs comme « informer » ou « inviter ».
 
@@ -524,7 +528,7 @@ traductions doivent reproduire ces seuils intégralement.
   envoyer des missionnaires. DOXA travaille avec ces agences missionnaires mais
   ne les remplace pas.
 - **Exemple** : « Chaque département missionnaire affilié au World Assemblies
-  of God Fellowship (129 agences missionnaires différentes au 1er janvier 2026) est
+  of God Fellowship (129 agences missionnaires différentes en 2026) est
   automatiquement un partenaire DOXA. » (Page À propos)
 - **Pourquoi c'est important** : Terme technique dans les structures
   missionnaires. Les traducteurs doivent utiliser l'équivalent local établi
@@ -674,7 +678,7 @@ traductions doivent reproduire ces seuils intégralement.
 ### Générations spirituelles (d'églises)
 
 - **Signification** : Le nombre de « générations » d'implantation d'églises
-  qu'un MPÉ a produites (A plante B, B plante C, C plante D = 4 générations).
+  qu'un MPÉ a produites (A implante B, B implante C, C implante D = 4 générations).
 - **Exemple** : « quatre flux de quatre générations spirituelles »
   (page Définitions)
 - **Pourquoi c'est important** : Métrique technique d'un MPÉ. Les traducteurs
@@ -682,44 +686,44 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Demeurer en Jésus
+### Demeurez en Jésus
 
 - **Signification** : Valeur fondamentale tirée de Jean 15:5 — demeurer dans
   une relation continue et dépendante avec Jésus comme source de toute
   fructification.
-- **Exemple** : « Demeurer en Jésus (Jean 15:5) » (page Vision — Valeurs)
+- **Exemple** : « Demeurez en Jésus (Jean 15:5) » (page Vision — Valeurs)
 - **Pourquoi c'est important** : « Demeurer » porte un sens relationnel et
   continu. Éviter de le rendre comme un acte passé unique ou un lieu physique.
 
 ---
 
-### Prier sans cesse
+### Priez sans cesse
 
 - **Signification** : Valeur fondamentale tirée de 1 Thessaloniciens 5:17 —
   la posture de prière continue et habituelle qui sous-tend toute la vision de
   prière de Doxa.Life.
-- **Exemple** : « Prier sans cesse (1 Thessaloniciens 5:17) » (page Vision)
+- **Exemple** : « Priez sans cesse (1 Thessaloniciens 5:17) » (page Vision)
 - **Pourquoi c'est important** : Utiliser l'expression de la traduction
   biblique établie. Souligner la continuité, et non l'impossibilité littérale.
 
 ---
 
-### Vous renoncer à vous-même
+### Renoncez à vous-même
 
 - **Signification** : Valeur fondamentale tirée de Luc 9:23 — le renoncement
   volontaire à soi-même alors que les disciples suivent Jésus dans la mission.
-- **Exemple** : « Vous renoncer à vous-même (Luc 9:23) »
+- **Exemple** : « Renoncez à vous-même (Luc 9:23) »
   (page Vision — Valeurs)
 - **Pourquoi c'est important** : Exprimer le renoncement volontaire à soi-même
   pour l'amour du Christ, et non la haine de soi ou l'ascétisme.
 
 ---
 
-### S'engager au-delà des frontières
+### Portez l'Évangile au-delà
 
 - **Signification** : Valeur fondamentale tirée de 2 Corinthiens 10:16 —
   atteindre au-delà des zones où l'Évangile est déjà parvenu.
-- **Exemple** : « S'engager au-delà des frontières (2 Corinthiens 10:16) »
+- **Exemple** : « Portez l'Évangile au-delà (2 Corinthiens 10:16) »
   (page Vision)
 - **Pourquoi c'est important** : « Au-delà » signale les zones frontières et
   pionnières. Relier au concept de peuple « frontière ».
@@ -745,12 +749,13 @@ traductions doivent reproduire ces seuils intégralement.
 ### World Assemblies of God Fellowship (WAGF)
 
 - **Signification** : La fraternité mondiale qui a fondé et administre
-  Doxa.Life. Comprend 129 agences missionnaires affiliées (au 1er janvier 2026).
+  Doxa.Life. Comprend 129 agences missionnaires affiliées (en 2026).
 - **Exemple** : « DOXA a été fondé et est administré par le World Assemblies
   of God Fellowship (WAGF) » (page À propos)
-- **Pourquoi c'est important** : Nom propre — ne pas traduire. Ajouter une
-  brève formule explicative si nécessaire (« fraternité mondiale des Assemblées
-  de Dieu »). L'acronyme WAGF doit rester cohérent sur l'ensemble du site.
+- **Pourquoi c'est important** : Traduire par « Association mondiale des
+  Assemblées de Dieu », le nom français établi (cf. Wikipédia). Conserver
+  l'acronyme WAGF tel quel, et associer le nom anglais à la première mention
+  si utile. Respecter les majuscules : « Assemblées de Dieu ».
 
 ---
 
@@ -760,7 +765,9 @@ traductions doivent reproduire ces seuils intégralement.
   supervise les responsables de Doxa.Life.
 - **Exemple** : « Supervisé par l'équipe dirigeante de la Commission des
   missions du WAGF » (À propos)
-- **Pourquoi c'est important** : Nom institutionnel propre ; ne pas traduire.
+- **Pourquoi c'est important** : Nom institutionnel — traduire de façon
+  cohérente (« Commission des missions du WAGF ») en conservant l'acronyme
+  WAGF tel quel.
 
 ---
 
@@ -824,14 +831,14 @@ de nouveaux.
 | **Nouvelle naissance** | Conversion/régénération — être « né de nouveau » (Jean 3:5–6) |
 | **Régénération** | L'œuvre du Saint-Esprit de renouvellement spirituel lors du salut |
 | **Justification** | Être déclaré juste devant Dieu par la foi en Christ |
-| **Expiation / sacrifice expiatoire** | La mort substitutive du Christ couvrant le péché de l'humanité |
+| **Expiation** | La mort substitutive du Christ couvrant le péché de l'humanité |
 | **Sanctification** | Séparation continue du mal et dédicace à Dieu |
-| **Baptême dans l'eau** | Baptême du croyant par immersion (Matthieu 28:19 ; Actes 10:47–48) |
+| **Baptême d'eau** | Baptême du croyant par immersion (Matthieu 28:19 ; Actes 10:47–48) |
 | **Sainte Cène / Communion** | L'ordonnance du pain et de la coupe (Luc 22:14–20) |
 | **Baptême du Saint-Esprit** | Une expérience distincte d'habilitation, attestée par les langues |
 | **Parler en langues** | Le signe initial du baptême du Saint-Esprit |
 | **Dons du Saint-Esprit** | Dons surnaturels (1 Corinthiens 12) |
-| **Retour prémillénariste** | Le retour imminent, personnel et corporel du Christ avant le millénium |
+| **Retour prémillénaire** | Le retour imminent, personnel et corporel du Christ avant le millénium |
 | **Résurrection corporelle** | Résurrection physique de toute l'humanité à la fin des temps |
 
 ---
@@ -845,7 +852,7 @@ essentielle pour l'utilisabilité.
 | Libellé | Contexte | Note de traduction |
 |---------|---------|-------------------|
 | **Prier** | Navigation principale + titre de page + étape d'action | Rester court ; mode impératif |
-| **Choisir** | Navigation principale + titre de page | Voir l'entrée « Choisir » ci-dessus — éviter le langage de l'adoption d'enfant |
+| **Adopter** | Navigation principale + titre de page | Voir l'entrée « Adopter » ci-dessus — éviter le langage de l'adoption d'enfant |
 | **S'engager** | Appel à l'action de la page d'accueil | Sens actif/missionnaire ; pas « interagir » |
 | **Rechercher** | Navigation principale | Outil « Trouver un peuple non atteint et non engagé » — utiliser le mot pour « chercher/explorer » |
 | **À propos** | Navigation principale | Standard « à propos de nous » — utiliser l'équivalent local naturel |
@@ -854,13 +861,13 @@ essentielle pour l'utilisabilité.
 | **Vision** | Sous-menu À propos | La page de vision |
 | **Déclaration de foi** | Sous-menu À propos | Déclaration doctrinale |
 | **Nous contacter** | Navigation/pied de page | Libellé de contact standard |
-| **Choisir un peuple** | Appels à l'action Prier + Choisir | Sélection intentionnelle, non aléatoire ; souligner l'engagement continu |
+| **Choisir un peuple** | Appels à l'action Prier + Adopter | Sélection intentionnelle, non aléatoire ; souligner l'engagement continu |
 | **S'inscrire** | Étape 2 de Prier | S'abonner/s'inscrire pour les points de prière quotidiens |
 | **Guide de prière quotidien** | Page Prier | La ressource dévotionnelle par courriel |
-| **Couverture de prière 24h/24** | Prier + Choisir | Voir l'entrée complète ci-dessus |
-| **Objectif de choix / Statut actuel** | Statistiques de la page Choisir | Progression vers le choix des 2 085 peuples non atteints et non engagés |
-| **Comment fonctionne le choix** | Page Choisir | En-tête de section étape par étape |
-| **Pourquoi le choix est important** | Page Choisir | En-tête de section motivationnel |
+| **Couverture de prière 24h/24** | Prier + Adopter | Voir l'entrée complète ci-dessus |
+| **Objectif d'adoption / Statut actuel** | Statistiques de la page Adopter | Progression vers l'adoption des 2 085 peuples non atteints et non engagés |
+| **Comment fonctionne l'adoption** | Page Adopter | En-tête de section étape par étape |
+| **Pourquoi l'adoption est importante** | Page Adopter | En-tête de section motivationnel |
 | **Pourquoi la prière est importante** | Page Prier | En-tête de section motivationnel |
 
 ---
@@ -878,7 +885,7 @@ et exemples spécifiques au site :
 | Peuple non atteint | §1 Terminologie des peuples |
 | Peuple sous-engagé | §1 Terminologie des peuples |
 | Peuple « frontière » | §1 Terminologie des peuples |
-| Choisir (un peuple) | §4 Adoption et mobilisation |
+| Adopter (un peuple) | §4 Adoption et mobilisation |
 | Prier (pour un peuple) | §3 Prière et intercession + §4 |
 | Mouvements d'implantation d'églises | §2 Langage de l'engagement et de la mission |
 | Prière quotidienne | §3 Prière et intercession |
